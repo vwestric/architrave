@@ -1,0 +1,8325 @@
+{
+    "textgrid:3pfd9": {
+        "geo": {
+            "lat": 48.85502,
+            "long": 2.31251
+        },
+        "type": "military"
+    },
+    "textgrid:3pfdb": {
+        "geo": {
+            "lat": 48.85506,
+            "long": 2.312634
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfdz": {
+        "geo": {
+            "lat": 48.858222,
+            "long": 2.357861
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkn3": {
+        "geo": {
+            "lat": 48.850238,
+            "long": 2.336724
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff0": {
+        "geo": {
+            "lat": 48.8551,
+            "long": 2.36675
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff1": {
+        "geo": {
+            "lat": 48.85703,
+            "long": 2.361833
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff2": {
+        "geo": {
+            "lat": 48.85471,
+            "long": 2.358361
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff3": {
+        "geo": {
+            "lat": 48.86101,
+            "long": 2.355611
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff4": {
+        "geo": {
+            "lat": 48.8529563,
+            "long": 2.3237521
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff5": {
+        "geo": {
+            "lat": 48.85542,
+            "long": 2.358401
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1cz": {
+        "geo": {
+            "lat": 48.864092,
+            "long": 2.340055
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff6": {
+        "geo": {
+            "lat": 48.868623,
+            "long": 2.348219
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q198": {
+        "geo": {
+            "lat": 48.868786,
+            "long": 2.340042
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff7": {
+        "geo": {
+            "lat": 48.859106,
+            "long": 2.364839
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pff8": {
+        "geo": {
+            "lat": 48.858035,
+            "long": 2.334161
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qknt": {
+        "geo": {
+            "lat": 48.861251,
+            "long": 2.358594
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkqc": {
+        "geo": {
+            "lat": 48.858896,
+            "long": 2.320584
+        },
+        "type": "domestic"
+    },
+    "textgrid:3ph2r": {
+        "geo": {
+            "lat": 48.8595,
+            "long": 2.3397
+        },
+        "type": "public"
+    },
+    "textgrid:3pff9": {
+        "geo": {
+            "lat": 48.8509,
+            "long": 2.359001
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffb": {
+        "geo": {
+            "lat": 48.864644,
+            "long": 2.342556
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffc": {
+        "geo": {
+            "lat": 48.857314,
+            "long": 2.362537
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffd": {
+        "geo": {
+            "lat": 48.854017,
+            "long": 2.330094
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfff": {
+        "geo": {
+            "lat": 48.855339,
+            "long": 2.364354
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffg": {
+        "geo": {
+            "lat": 48.859218,
+            "long": 2.319116
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffh": {
+        "geo": {
+            "lat": 48.866209,
+            "long": 2.339402
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffj": {
+        "geo": {
+            "lat": 48.866347,
+            "long": 2.338851
+        },
+        "type": "domestic"
+    },
+    "textgrid:3rc2x": {
+        "geo": {
+            "lat": 48.866347,
+            "long": 2.338851
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgq": {
+        "geo": {
+            "lat": 48.866614,
+            "long": 2.338427
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffk": {
+        "geo": {
+            "lat": 48.849508,
+            "long": 2.338764
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffm": {
+        "geo": {
+            "lat": 48.856944,
+            "long": 2.339167
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffn": {
+        "geo": {
+            "lat": 48.853839,
+            "long": 2.329828
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkrf": {
+        "geo": {
+            "lat": 48.857718,
+            "long": 2.334981
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1cd": {
+        "geo": {
+            "lat": 48.852222,
+            "long": 2.344444
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffq": {
+        "geo": {
+            "lat": 48.854639,
+            "long": 2.348806
+        },
+        "type": "religious"
+    },
+    "textgrid:3pffr": {
+        "geo": {
+            "lat": 48.86889,
+            "long": 2.339962
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfft": {
+        "geo": {
+            "lat": 48.868983,
+            "long": 2.33711
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffv": {
+        "geo": {
+            "lat": 48.86099,
+            "long": 2.35838
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffw": {
+        "geo": {
+            "lat": 48.860243,
+            "long": 2.350918
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffx": {
+        "geo": {
+            "lat": 48.867621,
+            "long": 2.337783
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1d0": {
+        "geo": {
+            "lat": 48.86888,
+            "long": 2.335857
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1ck": {
+        "geo": {
+            "lat": 48.861821,
+            "long": 2.359213
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pffz": {
+        "geo": {
+            "lat": 48.850944,
+            "long": 2.359646
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkr5": {
+        "geo": {
+            "lat": 48.854251,
+            "long": 2.331576
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1cq": {
+        "geo": {
+            "lat": 48.857826,
+            "long": 2.363276
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg0": {
+        "geo": {
+            "lat": 48.85198,
+            "long": 2.366358
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg1": {
+        "geo": {
+            "lat": 48.856444,
+            "long": 2.336332
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg2": {
+        "geo": {
+            "lat": 48.867715,
+            "long": 2.334851
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg4": {
+        "geo": {
+            "lat": 48.868256,
+            "long": 2.337756
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg5": {
+        "geo": {
+            "lat": 48.86053,
+            "long": 2.35504
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1cs": {
+        "geo": {
+            "lat": 48.857797,
+            "long": 2.361927
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg6": {
+        "geo": {
+            "lat": 48.869256,
+            "long": 2.338631
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg7": {
+        "geo": {
+            "lat": 48.850717,
+            "long": 2.357345
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg8": {
+        "geo": {
+            "lat": 48.861486,
+            "long": 2.356085
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfg9": {
+        "geo": {
+            "lat": 48.86083,
+            "long": 2.3557
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgb": {
+        "geo": {
+            "lat": 48.854205,
+            "long": 2.328385
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgc": {
+        "geo": {
+            "lat": 48.858167,
+            "long": 2.33244
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1dr": {
+        "geo": {
+            "lat": 48.865281,
+            "long": 2.330924
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1cm": {
+        "geo": {
+            "lat": 48.859206,
+            "long": 2.361975
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgd": {
+        "geo": {
+            "lat": 48.870074,
+            "long": 2.330526
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkrg": {
+        "geo": {
+            "lat": 48.856388,
+            "long": 2.36507
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1gx": {
+        "geo": {
+            "lat": 48.868348,
+            "long": 2.35295
+        },
+        "type": "domestic; religious"
+    },
+    "textgrid:3pfgh": {
+        "geo": {
+            "lat": 48.863802,
+            "long": 2.3422
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgj": {
+        "geo": {
+            "lat": 48.85736,
+            "long": 2.330021
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgk": {
+        "geo": {
+            "lat": 48.862857,
+            "long": 2.342779
+        },
+        "type": "domestic"
+    },
+    "textgrid:3r2zs": {
+        "geo": {
+            "lat": 48.863,
+            "long": 2.343
+        },
+        "type": "monuments"
+    },
+    "textgrid:3pfgm": {
+        "geo": {
+            "lat": 48.8501,
+            "long": 2.33571
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgn": {
+        "geo": {
+            "lat": 48.85446,
+            "long": 2.363689
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgp": {
+        "geo": {
+            "lat": 48.8509,
+            "long": 2.337
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgr": {
+        "geo": {
+            "lat": 48.850562,
+            "long": 2.33668
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgs": {
+        "geo": {
+            "lat": 48.85644,
+            "long": 2.35244
+        },
+        "type": "public"
+    },
+    "textgrid:3pfgt": {
+        "geo": {
+            "lat": 48.865364,
+            "long": 2.339787
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfgv": {
+        "geo": {
+            "lat": 48.856336,
+            "long": 2.327641
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfgw": {
+        "geo": {
+            "lat": 48.856449,
+            "long": 2.321856
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfgx": {
+        "geo": {
+            "lat": 48.849114,
+            "long": 2.382702
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfh1": {
+        "geo": {
+            "lat": 48.845895,
+            "long": 2.347881
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfh2": {
+        "geo": {
+            "lat": 48.853964,
+            "long": 2.334347
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfh3": {
+        "geo": {
+            "lat": 48.853911,
+            "long": 2.335632
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfh4": {
+        "geo": {
+            "lat": 48.84638,
+            "long": 2.356956
+        },
+        "type": "religious"
+    },
+    "textgrid:3phbm": {
+        "geo": {
+            "lat": 48.850605,
+            "long": 2.341894
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhr": {
+        "geo": {
+            "lat": 48.799932,
+            "long": 2.329762
+        },
+        "type": "public"
+    },
+    "textgrid:3pfh7": {
+        "geo": {
+            "lat": 48.850278,
+            "long": 2.363528
+        },
+        "type": "military"
+    },
+    "textgrid:3pfh8": {
+        "geo": {
+            "lat": 48.853184,
+            "long": 2.369141
+        },
+        "type": "public"
+    },
+    "textgrid:3pfh9": {
+        "geo": {
+            "lat": 48.867368,
+            "long": 2.338404
+        },
+        "type": "public"
+    },
+    "textgrid:3pg36": {
+        "geo": {
+            "lat": 48.84691,
+            "long": 2.34614
+        },
+        "type": "public"
+    },
+    "textgrid:3q1c8": {
+        "geo": {
+            "lat": 48.844287,
+            "long": 2.355016
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhb": {
+        "geo": {
+            "lat": 48.85296,
+            "long": 2.35007
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg1b": {
+        "geo": {
+            "lat": 48.892304,
+            "long": 2.365734
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfhc": {
+        "geo": {
+            "lat": 48.857434,
+            "long": 2.347087
+        },
+        "type": "military"
+    },
+    "textgrid:3pfhd": {
+        "geo": {
+            "lat": 48.852953,
+            "long": 2.346747
+        },
+        "type": "military"
+    },
+    "textgrid:3pfhf": {
+        "geo": {
+            "lat": 48.848852,
+            "long": 2.352034
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhg": {
+        "geo": {
+            "lat": 48.848056,
+            "long": 2.344528
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhj": {
+        "geo": {
+            "lat": 48.850179,
+            "long": 2.332697
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfhk": {
+        "geo": {
+            "lat": 48.85,
+            "long": 2.339722
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhm": {
+        "geo": {
+            "lat": 48.8572,
+            "long": 2.3368
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhn": {
+        "geo": {
+            "lat": 48.8572,
+            "long": 2.3368
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1dk": {
+        "geo": {
+            "lat": 48.857222,
+            "long": 2.336944
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhp": {
+        "geo": {
+            "lat": 48.849209,
+            "long": 2.345186
+        },
+        "type": "public"
+    },
+    "textgrid:3pfhq": {
+        "geo": {
+            "lat": 48.848475,
+            "long": 2.343011
+        },
+        "type": "public"
+    },
+    "textgrid:3qkr2": {
+        "geo": {
+            "lat": 48.84972,
+            "long": 2.34639
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg3s": {
+        "geo": {
+            "lat": 48.853062,
+            "long": 2.338471
+        },
+        "type": "public"
+    },
+    "textgrid:3pfht": {
+        "geo": {
+            "lat": 48.84148,
+            "long": 2.34156
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfhw": {
+        "geo": {
+            "lat": 48.838727,
+            "long": 2.338698
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfhz": {
+        "geo": {
+            "lat": 48.858916,
+            "long": 2.357726
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj0": {
+        "geo": {
+            "lat": 48.861847,
+            "long": 2.365951
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj1": {
+        "geo": {
+            "lat": 48.867549,
+            "long": 2.329308
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj2": {
+        "geo": {
+            "lat": 48.866454,
+            "long": 2.327999
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj3": {
+        "geo": {
+            "lat": 48.857149,
+            "long": 2.319356
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkqb": {
+        "geo": {
+            "lat": 48.849092,
+            "long": 2.348701
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj4": {
+        "geo": {
+            "lat": 48.848408,
+            "long": 2.330378
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkp": {
+        "geo": {
+            "lat": 48.8413,
+            "long": 2.3399
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj5": {
+        "geo": {
+            "lat": 48.851023,
+            "long": 2.364715
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj6": {
+        "geo": {
+            "lat": 48.843462,
+            "long": 2.335521
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj8": {
+        "geo": {
+            "lat": 48.850752,
+            "long": 2.341246
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfj9": {
+        "geo": {
+            "lat": 48.841915,
+            "long": 2.34219
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjb": {
+        "geo": {
+            "lat": 48.866215,
+            "long": 2.329096
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjc": {
+        "geo": {
+            "lat": 48.844445,
+            "long": 2.339407
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjd": {
+        "geo": {
+            "lat": 48.8472,
+            "long": 2.3432
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkr0": {
+        "geo": {
+            "lat": 48.866944,
+            "long": 2.331944
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjf": {
+        "geo": {
+            "lat": 48.856079,
+            "long": 2.327563
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjg": {
+        "geo": {
+            "lat": 48.857281,
+            "long": 2.365904
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjh": {
+        "geo": {
+            "lat": 48.848472,
+            "long": 2.331415
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjj": {
+        "geo": {
+            "lat": 48.875278,
+            "long": 2.36
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjk": {
+        "geo": {
+            "lat": 48.800556,
+            "long": 2.066111
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjm": {
+        "geo": {
+            "lat": 48.866083,
+            "long": 2.360445
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjn": {
+        "geo": {
+            "lat": 48.866746,
+            "long": 2.355431
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjp": {
+        "geo": {
+            "lat": 48.859883,
+            "long": 2.365148
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjq": {
+        "geo": {
+            "lat": 48.840613,
+            "long": 2.34189
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmw": {
+        "geo": {
+            "lat": 48.844583,
+            "long": 2.343861
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjr": {
+        "geo": {
+            "lat": 48.853318,
+            "long": 2.366218
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkqd": {
+        "geo": {
+            "lat": 48.855842,
+            "long": 2.324876
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfjs": {
+        "geo": {
+            "lat": 47.774867,
+            "long": 4.163002
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfjt": {
+        "geo": {
+            "lat": 47.616,
+            "long": 1.517
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfjv": {
+        "geo": {
+            "lat": 49.1916,
+            "long": 2.4852
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfjx": {
+        "geo": {
+            "lat": 48.807977,
+            "long": 2.192274
+        },
+        "type": "domestic"
+    },
+    "textgrid:3phbk": {
+        "geo": {
+            "lat": 48.762948,
+            "long": 2.408826
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfjz": {
+        "geo": {
+            "lat": 48.828696,
+            "long": 2.400591
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk0": {
+        "geo": {
+            "lat": 48.8247,
+            "long": 3.10667
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk1": {
+        "geo": {
+            "lat": 49.371465,
+            "long": 2.698252
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkr3": {
+        "geo": {
+            "lat": 48.759688,
+            "long": 2.313692
+        },
+        "type": "religious"
+    },
+    "textgrid:3phbj": {
+        "geo": {
+            "lat": 48.40222,
+            "long": 2.70056
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkn0": {
+        "geo": {
+            "lat": 48.822639,
+            "long": 2.273194
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk2": {
+        "geo": {
+            "lat": 49.32737,
+            "long": 2.4617
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk3": {
+        "geo": {
+            "lat": 48.874171,
+            "long": 2.255116
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk4": {
+        "geo": {
+            "lat": 48.947045,
+            "long": 2.153695
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk5": {
+        "geo": {
+            "lat": 48.805,
+            "long": 2.23111
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk6": {
+        "geo": {
+            "lat": 48.5197,
+            "long": 3.5956
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk7": {
+        "geo": {
+            "lat": 48.896893,
+            "long": 2.515293
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk8": {
+        "geo": {
+            "lat": 47.0075,
+            "long": 0.326056
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfk9": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1bs": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxbg": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxbf": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3qksk": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkrn": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkrm": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3qksj": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3qksh": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3qksg": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxbd": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkr9": {
+        "geo": {
+            "lat": 48.83784,
+            "long": 2.21873
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfkb": {
+        "geo": {
+            "lat": 48.837646,
+            "long": 2.216627
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfkc": {
+        "geo": {
+            "lat": 48.8979,
+            "long": 2.09592
+        },
+        "type": "domestic"
+    },
+    "textgrid:3phb3": {
+        "geo": {
+            "lat": 48.898056,
+            "long": 2.101111
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1gz": {
+        "geo": {
+            "lat": 48.897809,
+            "long": 2.094598
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkd": {
+        "geo": {
+            "lat": 48.774444,
+            "long": 2.3
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfkf": {
+        "geo": {
+            "lat": 46.9709,
+            "long": -0.2173
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfkg": {
+        "geo": {
+            "lat": 48.5661,
+            "long": 2.71435
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfkj": {
+        "geo": {
+            "lat": 49.274503,
+            "long": 2.516817
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfkk": {
+        "geo": {
+            "lat": 48.8428,
+            "long": 2.4358
+        },
+        "type": "domestic"
+    },
+    "textgrid:3px9w": {
+        "geo": {
+            "lat": 48.842877,
+            "long": 2.432468
+        },
+        "type": "garden"
+    },
+    "textgrid:3q1ch": {
+        "geo": {
+            "lat": 48.8428,
+            "long": 2.4358
+        },
+        "type": "domestic"
+    },
+    "textgrid:3rc32": {
+        "geo": {
+            "lat": 48.8424,
+            "long": 2.43636
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkrw": {
+        "geo": {
+            "lat": 48.843437,
+            "long": 2.425325
+        },
+        "type": "garden"
+    },
+    "textgrid:3pxbx": {
+        "geo": {
+            "lat": 48.82974,
+            "long": 2.43341
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfkn": {
+        "geo": {
+            "lat": 48.848333,
+            "long": 2.343056
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkq": {
+        "geo": {
+            "lat": 48.867222,
+            "long": 2.325278
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmd": {
+        "geo": {
+            "lat": 48.868681,
+            "long": 2.325132
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkr": {
+        "geo": {
+            "lat": 48.8567,
+            "long": 2.33352
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph29": {
+        "geo": {
+            "lat": 48.856711,
+            "long": 2.333522
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfks": {
+        "geo": {
+            "lat": 48.8506,
+            "long": 2.34502
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkt": {
+        "geo": {
+            "lat": 48.860376,
+            "long": 2.356949
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkw": {
+        "geo": {
+            "lat": 48.866814,
+            "long": 2.341003
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkx": {
+        "geo": {
+            "lat": 48.855718,
+            "long": 2.346827
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfkz": {
+        "geo": {
+            "lat": 48.849682,
+            "long": 2.344874
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1cv": {
+        "geo": {
+            "lat": 48.855278,
+            "long": 2.362778
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm1": {
+        "geo": {
+            "lat": 48.85853,
+            "long": 2.354895
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm2": {
+        "geo": {
+            "lat": 48.85519,
+            "long": 2.34865
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm3": {
+        "geo": {
+            "lat": 48.846539,
+            "long": 2.348089
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm4": {
+        "geo": {
+            "lat": 48.863278,
+            "long": 2.345056
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm5": {
+        "geo": {
+            "lat": 48.85972,
+            "long": 2.34092
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm6": {
+        "geo": {
+            "lat": 48.854314,
+            "long": 2.346133
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm7": {
+        "geo": {
+            "lat": 48.8555,
+            "long": 2.35473
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm8": {
+        "geo": {
+            "lat": 48.860927,
+            "long": 2.348604
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfm9": {
+        "geo": {
+            "lat": 48.84364,
+            "long": 2.34112
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmb": {
+        "geo": {
+            "lat": 48.85614,
+            "long": 2.35325
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmc": {
+        "geo": {
+            "lat": 48.862862,
+            "long": 2.35006
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkrh": {
+        "geo": {
+            "lat": 48.85147,
+            "long": 2.35762
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmf": {
+        "geo": {
+            "lat": 48.859,
+            "long": 2.351
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmg": {
+        "geo": {
+            "lat": 48.865581,
+            "long": 2.353672
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmh": {
+        "geo": {
+            "lat": 48.8492,
+            "long": 2.35028
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmj": {
+        "geo": {
+            "lat": 48.859691,
+            "long": 2.34734
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmk": {
+        "geo": {
+            "lat": 48.8546,
+            "long": 2.361417
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmm": {
+        "geo": {
+            "lat": 48.86497,
+            "long": 2.33226
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmp": {
+        "geo": {
+            "lat": 48.861278,
+            "long": 2.348991
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmq": {
+        "geo": {
+            "lat": 48.85205,
+            "long": 2.34566
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmr": {
+        "geo": {
+            "lat": 48.85092,
+            "long": 2.33483
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfms": {
+        "geo": {
+            "lat": 48.85028,
+            "long": 2.33336
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmt": {
+        "geo": {
+            "lat": 48.858243,
+            "long": 2.330934
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmx": {
+        "geo": {
+            "lat": 48.850825,
+            "long": 2.345711
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfmz": {
+        "geo": {
+            "lat": 48.842644,
+            "long": 2.342093
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfn0": {
+        "geo": {
+            "lat": 48.843025,
+            "long": 2.341297
+        },
+        "type": "religious"
+    },
+    "textgrid:3phb2": {
+        "geo": {
+            "lat": 48.851782,
+            "long": 2.339968
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph9d": {
+        "geo": {
+            "lat": 48.85508,
+            "long": 2.361877
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph9x": {
+        "geo": {
+            "lat": 48.857761,
+            "long": 2.363508
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph8k": {
+        "geo": {
+            "lat": 48.853428,
+            "long": 2.348637
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph9z": {
+        "geo": {
+            "lat": 48.868872,
+            "long": 2.352107
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn1": {
+        "geo": {
+            "lat": 48.86065,
+            "long": 2.348011
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3phbp": {
+        "geo": {
+            "lat": 48.866233,
+            "long": 2.340544
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfkm": {
+        "geo": {
+            "lat": 48.850352,
+            "long": 2.348525
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfkh": {
+        "geo": {
+            "lat": 48.851376,
+            "long": 2.343624
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfjw": {
+        "geo": {
+            "lat": 48.86609,
+            "long": 2.336939
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn2": {
+        "geo": {
+            "lat": 48.858186,
+            "long": 2.341889
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1dv": {
+        "geo": {
+            "lat": 48.855996,
+            "long": 2.348494
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph32": {
+        "geo": {
+            "lat": 48.860508,
+            "long": 2.355044
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0k7": {
+        "geo": {
+            "lat": 48.868132,
+            "long": 2.323608
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0k8": {
+        "geo": {
+            "lat": 48.857353,
+            "long": 2.364313
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0k9": {
+        "geo": {
+            "lat": 48.852177,
+            "long": 2.346247
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0kb": {
+        "geo": {
+            "lat": 48.843953,
+            "long": 2.355038
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0kc": {
+        "geo": {
+            "lat": 48.861459,
+            "long": 2.363534
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pxbs": {
+        "geo": {
+            "lat": 48.87948,
+            "long": 2.345
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pxbr": {
+        "geo": {
+            "lat": 48.865129,
+            "long": 2.333319
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn3": {
+        "geo": {
+            "lat": 48.85207,
+            "long": 2.38412
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn4": {
+        "geo": {
+            "lat": 48.8762,
+            "long": 2.35852
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn5": {
+        "geo": {
+            "lat": 48.858,
+            "long": 2.32
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn6": {
+        "geo": {
+            "lat": 48.871109,
+            "long": 2.316313
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn7": {
+        "geo": {
+            "lat": 48.85026,
+            "long": 2.34674
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn8": {
+        "geo": {
+            "lat": 48.8768,
+            "long": 2.32507
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pxbq": {
+        "geo": {
+            "lat": 48.83518,
+            "long": 2.35195
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfn9": {
+        "geo": {
+            "lat": 48.871123,
+            "long": 2.360666
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfnb": {
+        "geo": {
+            "lat": 48.84726,
+            "long": 2.35502
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pxbp": {
+        "geo": {
+            "lat": 48.862402,
+            "long": 2.35744
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfnc": {
+        "geo": {
+            "lat": 48.852059,
+            "long": 2.334553
+        },
+        "type": "public"
+    },
+    "textgrid:3pfnd": {
+        "geo": {
+            "lat": 48.848289,
+            "long": 2.385697
+        },
+        "type": "public"
+    },
+    "textgrid:3pfnf": {
+        "geo": {
+            "lat": 48.83495,
+            "long": 2.35312
+        },
+        "type": "public"
+    },
+    "textgrid:3qkpr": {
+        "geo": {
+            "lat": 48.8778,
+            "long": 2.3681
+        },
+        "type": "public"
+    },
+    "textgrid:3pfng": {
+        "geo": {
+            "lat": 48.84289,
+            "long": 2.06548
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfwq": {
+        "geo": {
+            "lat": 48.86997,
+            "long": 2.18476
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfnh": {
+        "geo": {
+            "lat": 48.855372,
+            "long": 2.33185
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfnj": {
+        "geo": {
+            "lat": 48.83902,
+            "long": 2.36412
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfnk": {
+        "geo": {
+            "lat": 48.849513,
+            "long": 2.321929
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfnm": {
+        "geo": {
+            "lat": 48.850835,
+            "long": 2.325287
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfnn": {
+        "geo": {
+            "lat": 48.859637,
+            "long": 2.348166
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfnp": {
+        "geo": {
+            "lat": 48.854882,
+            "long": 2.347492
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfnq": {
+        "geo": {
+            "lat": 48.852428,
+            "long": 2.35484
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfns": {
+        "geo": {
+            "lat": 48.843962,
+            "long": 2.359599
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfnx": {
+        "geo": {
+            "lat": 48.855388,
+            "long": 2.337642
+        },
+        "type": "public"
+    },
+    "textgrid:3qksf": {
+        "geo": {
+            "lat": 48.80102,
+            "long": 2.123837
+        },
+        "type": "public"
+    },
+    "textgrid:3q1dt": {
+        "geo": {
+            "lat": 48.866836,
+            "long": 2.342629
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfnz": {
+        "geo": {
+            "lat": 48.835892,
+            "long": 2.336512
+        },
+        "type": "public"
+    },
+    "textgrid:3ph26": {
+        "geo": {
+            "lat": 48.862996,
+            "long": 2.337373
+        },
+        "type": "public"
+    },
+    "textgrid:3pfp0": {
+        "geo": {
+            "lat": 48.861861,
+            "long": 2.340336
+        },
+        "type": "religious"
+    },
+    "textgrid:3qknj": {
+        "geo": {
+            "lat": 48.837777,
+            "long": 2.335386
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfp2": {
+        "geo": {
+            "lat": 48.86373,
+            "long": 2.33712
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfp3": {
+        "geo": {
+            "lat": 48.85598,
+            "long": 2.34556
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfdg": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfdj": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3q1d5": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3q1d4": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxb3": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3q1d2": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r32t": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r31w": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r31t": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r31s": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r31c": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r319": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r318": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r317": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r316": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3q1dw": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r315": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r314": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3r30p": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkq7": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfdc": {
+        "geo": {
+            "lat": 48.84844,
+            "long": 2.33726
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfdd": {
+        "geo": {
+            "lat": 48.84844,
+            "long": 2.33726
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfdf": {
+        "geo": {
+            "lat": 48.84653,
+            "long": 2.337196
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfp4": {
+        "geo": {
+            "lat": 48.866667,
+            "long": 2.338056
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfdk": {
+        "geo": {
+            "lat": 48.86373,
+            "long": 2.33712
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1ds": {
+        "geo": {
+            "lat": 48.86373,
+            "long": 2.33712
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfdm": {
+        "geo": {
+            "lat": 48.86491,
+            "long": 2.33776
+        },
+        "type": "garden"
+    },
+    "textgrid:3ph87": {
+        "geo": {
+            "lat": 48.85048,
+            "long": 2.34408
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfp5": {
+        "geo": {
+            "lat": 48.8544,
+            "long": 2.365
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfdn": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1g0": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfdq": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfdp": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfdx": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkq9": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxbm": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxbk": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxbj": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxbh": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3qksc": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3q1g2": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkq8": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3q1g1": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfds": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3r31z": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3r31x": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfdt": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3rc3m": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "interior"
+    },
+    "textgrid:3rc2t": {
+        "geo": {
+            "lat": 48.8623,
+            "long": 2.331
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfdv": {
+        "geo": {
+            "lat": 48.86308,
+            "long": 2.32841
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfdw": {
+        "geo": {
+            "lat": 48.86034,
+            "long": 2.333449
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfp6": {
+        "geo": {
+            "lat": 48.86683,
+            "long": 2.32878
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q0kd": {
+        "geo": {
+            "lat": 48.86137,
+            "long": 2.34235
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfp7": {
+        "geo": {
+            "lat": 48.856599,
+            "long": 2.342492
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0kf": {
+        "geo": {
+            "lat": 48.851308,
+            "long": 2.295341
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg35": {
+        "geo": {
+            "lat": 48.856615,
+            "long": 2.351694
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfp8": {
+        "geo": {
+            "lat": 48.850366,
+            "long": 2.34852
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfp9": {
+        "geo": {
+            "lat": 48.86746,
+            "long": 2.32946
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpb": {
+        "geo": {
+            "lat": 48.86573,
+            "long": 2.34105
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpc": {
+        "geo": {
+            "lat": 48.85564,
+            "long": 2.36554
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpd": {
+        "geo": {
+            "lat": 48.852783,
+            "long": 2.352788
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpf": {
+        "geo": {
+            "lat": 48.85662,
+            "long": 2.346782
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpg": {
+        "geo": {
+            "lat": 48.8525,
+            "long": 2.348333
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfph": {
+        "geo": {
+            "lat": 48.85284,
+            "long": 2.35744
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpj": {
+        "geo": {
+            "lat": 48.85725,
+            "long": 2.34148
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpk": {
+        "geo": {
+            "lat": 48.85608,
+            "long": 2.34857
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpm": {
+        "geo": {
+            "lat": 48.853322,
+            "long": 2.346958
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpn": {
+        "geo": {
+            "lat": 48.8601,
+            "long": 2.32992
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpp": {
+        "geo": {
+            "lat": 48.8529,
+            "long": 2.34772
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpq": {
+        "geo": {
+            "lat": 48.854102,
+            "long": 2.344649
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfps": {
+        "geo": {
+            "lat": 48.850535,
+            "long": 2.355401
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpt": {
+        "geo": {
+            "lat": 48.863692,
+            "long": 2.321087
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpv": {
+        "geo": {
+            "lat": 48.87008,
+            "long": 2.342755
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpw": {
+        "geo": {
+            "lat": 48.869857,
+            "long": 2.339041
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfpx": {
+        "geo": {
+            "lat": 48.853785,
+            "long": 2.368674
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq5": {
+        "geo": {
+            "lat": 48.848376,
+            "long": 2.395878
+        },
+        "type": "monuments"
+    },
+    "textgrid:3pfpz": {
+        "geo": {
+            "lat": 48.850015,
+            "long": 2.355485
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq0": {
+        "geo": {
+            "lat": 48.869805,
+            "long": 2.352694
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq1": {
+        "geo": {
+            "lat": 48.861944,
+            "long": 2.340278
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq2": {
+        "geo": {
+            "lat": 48.846583,
+            "long": 2.343088
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq4": {
+        "geo": {
+            "lat": 48.869148,
+            "long": 2.355682
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq8": {
+        "geo": {
+            "lat": 48.856341,
+            "long": 2.349963
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq7": {
+        "geo": {
+            "lat": 48.850632,
+            "long": 2.357366
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph86": {
+        "geo": {
+            "lat": 48.857216,
+            "long": 2.33859
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3px9j": {
+        "geo": {
+            "lat": 48.855018,
+            "long": 2.342193
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfq9": {
+        "geo": {
+            "lat": 48.866419,
+            "long": 2.334858
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkp2": {
+        "geo": {
+            "lat": 48.8555556,
+            "long": 2.369166
+        },
+        "type": "military"
+    },
+    "textgrid:3pfqc": {
+        "geo": {
+            "lat": 48.8517,
+            "long": 2.32128
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqd": {
+        "geo": {
+            "lat": 48.856389,
+            "long": 2.326389
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqf": {
+        "geo": {
+            "lat": 48.849767,
+            "long": 2.350333
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qksd": {
+        "geo": {
+            "lat": 48.853837,
+            "long": 2.336821
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqg": {
+        "geo": {
+            "lat": 48.868623,
+            "long": 2.348219
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqh": {
+        "geo": {
+            "lat": 48.8618,
+            "long": 2.339285
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qksb": {
+        "geo": {
+            "lat": 48.850859,
+            "long": 2.341274
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqj": {
+        "geo": {
+            "lat": 48.855195,
+            "long": 2.33962
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqk": {
+        "geo": {
+            "lat": 48.836646,
+            "long": 2.334472
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqm": {
+        "geo": {
+            "lat": 48.852967,
+            "long": 2.338694
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqn": {
+        "geo": {
+            "lat": 48.852658,
+            "long": 2.332916
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rc3k": {
+        "geo": {
+            "lat": 48.8617,
+            "long": 2.3433
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqp": {
+        "geo": {
+            "lat": 48.851552,
+            "long": 2.347135
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqq": {
+        "geo": {
+            "lat": 48.85036,
+            "long": 2.33583
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqr": {
+        "geo": {
+            "lat": 48.853194,
+            "long": 2.337861
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqs": {
+        "geo": {
+            "lat": 48.8619,
+            "long": 2.35894
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqt": {
+        "geo": {
+            "lat": 48.85761,
+            "long": 2.317526
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqv": {
+        "geo": {
+            "lat": 48.852222,
+            "long": 2.344444
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqw": {
+        "geo": {
+            "lat": 48.854914,
+            "long": 2.358248
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg33": {
+        "geo": {
+            "lat": 48.866885,
+            "long": 2.336359
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqx": {
+        "geo": {
+            "lat": 48.855513,
+            "long": 2.337684
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfqz": {
+        "geo": {
+            "lat": 48.8632,
+            "long": 2.35179
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1cr": {
+        "geo": {
+            "lat": 48.857984,
+            "long": 2.362298
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qknm": {
+        "geo": {
+            "lat": 48.864092,
+            "long": 2.340055
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1cn": {
+        "geo": {
+            "lat": 48.859923,
+            "long": 2.360849
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r32v": {
+        "geo": {
+            "lat": 48.848784,
+            "long": 2.385662
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkqg": {
+        "geo": {
+            "lat": 48.853456,
+            "long": 2.333347
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph89": {
+        "geo": {
+            "lat": 48.852316,
+            "long": 2.334501
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfr1": {
+        "geo": {
+            "lat": 48.851765,
+            "long": 2.337474
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfr2": {
+        "geo": {
+            "lat": 48.867824,
+            "long": 2.337968
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfr4": {
+        "geo": {
+            "lat": 48.854236,
+            "long": 2.363966
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfr5": {
+        "geo": {
+            "lat": 48.868887,
+            "long": 2.335959
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfr6": {
+        "geo": {
+            "lat": 48.862617,
+            "long": 2.357644
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfr8": {
+        "geo": {
+            "lat": 48.858332,
+            "long": 2.355831
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfr9": {
+        "geo": {
+            "lat": 48.863744,
+            "long": 2.350038
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrb": {
+        "geo": {
+            "lat": 48.859945,
+            "long": 2.311628
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrc": {
+        "geo": {
+            "lat": 48.864022,
+            "long": 2.333901
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrd": {
+        "geo": {
+            "lat": 48.862818,
+            "long": 2.352292
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrf": {
+        "geo": {
+            "lat": 48.854411,
+            "long": 2.328649
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrh": {
+        "geo": {
+            "lat": 48.8456,
+            "long": 2.34269
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrj": {
+        "geo": {
+            "lat": 48.8376,
+            "long": 2.29174
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrp": {
+        "geo": {
+            "lat": 48.8483,
+            "long": 2.35098
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkr4": {
+        "geo": {
+            "lat": 48.855265,
+            "long": 2.330865
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrq": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.314163
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrr": {
+        "geo": {
+            "lat": 48.85452,
+            "long": 2.336908
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1cw": {
+        "geo": {
+            "lat": 48.85683,
+            "long": 2.362808
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrs": {
+        "geo": {
+            "lat": 48.8486,
+            "long": 2.32097
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrt": {
+        "geo": {
+            "lat": 48.859565,
+            "long": 2.364557
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1cp": {
+        "geo": {
+            "lat": 48.859542,
+            "long": 2.360071
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrw": {
+        "geo": {
+            "lat": 48.843247,
+            "long": 2.313651
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfrx": {
+        "geo": {
+            "lat": 48.868786,
+            "long": 2.340042
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkr8": {
+        "geo": {
+            "lat": 48.851812,
+            "long": 2.323414
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkr7": {
+        "geo": {
+            "lat": 48.851794,
+            "long": 2.323358
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1cx": {
+        "geo": {
+            "lat": 48.860556,
+            "long": 2.347778
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfrz": {
+        "geo": {
+            "lat": 48.86161,
+            "long": 2.35657
+        },
+        "type": "religious"
+    },
+    "textgrid:3r32w": {
+        "geo": {
+            "lat": 48.802409,
+            "long": 2.120951
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r31g": {
+        "geo": {
+            "lat": 48.798958,
+            "long": 2.142444
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r31f": {
+        "geo": {
+            "lat": 48.799511,
+            "long": 2.128538
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r31d": {
+        "geo": {
+            "lat": 48.80516,
+            "long": 2.134108
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfs0": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfs1": {
+        "geo": {
+            "lat": 48.8038,
+            "long": 2.12857
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qks9": {
+        "geo": {
+            "lat": 48.803458,
+            "long": 2.125375
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfs2": {
+        "geo": {
+            "lat": 48.804057,
+            "long": 2.123139
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qks8": {
+        "geo": {
+            "lat": 48.803554,
+            "long": 2.122465
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qks7": {
+        "geo": {
+            "lat": 48.803155,
+            "long": 2.121838
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qks6": {
+        "geo": {
+            "lat": 48.804471,
+            "long": 2.121596
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qks5": {
+        "geo": {
+            "lat": 48.804188,
+            "long": 2.12135
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfs3": {
+        "geo": {
+            "lat": 48.804747,
+            "long": 2.120585
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qks4": {
+        "geo": {
+            "lat": 48.803612,
+            "long": 2.120869
+        },
+        "type": "interior"
+    },
+    "textgrid:3qks3": {
+        "geo": {
+            "lat": 48.805614,
+            "long": 2.122428
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfs4": {
+        "geo": {
+            "lat": 48.804864,
+            "long": 2.120355
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfs5": {
+        "geo": {
+            "lat": 48.804422,
+            "long": 2.120783
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfs6": {
+        "geo": {
+            "lat": 48.805086,
+            "long": 2.12213
+        },
+        "type": "religious"
+    },
+    "textgrid:3r32x": {
+        "geo": {
+            "lat": 48.80503,
+            "long": 2.12225
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfs7": {
+        "geo": {
+            "lat": 48.80512,
+            "long": 2.12061
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfs8": {
+        "geo": {
+            "lat": 48.80487,
+            "long": 2.12085
+        },
+        "type": "interior"
+    },
+    "textgrid:3r31j": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfs9": {
+        "geo": {
+            "lat": 48.805,
+            "long": 2.12119
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkqr": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsb": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsc": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsd": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsf": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsg": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsh": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsj": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3q0kk": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsk": {
+        "geo": {
+            "lat": 48.804777,
+            "long": 2.120493
+        },
+        "type": "interior"
+    },
+    "textgrid:3q0kg": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3r310": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3px9x": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsm": {
+        "geo": {
+            "lat": 48.804857,
+            "long": 2.120268
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsn": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkrp": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfsq": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3q0kj": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "interior"
+    },
+    "textgrid:3qkqh": {
+        "geo": {
+            "lat": 48.805803,
+            "long": 2.11607
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfsr": {
+        "geo": {
+            "lat": 48.805942,
+            "long": 2.116001
+        },
+        "type": "garden"
+    },
+    "textgrid:3qks1": {
+        "geo": {
+            "lat": 48.811019,
+            "long": 2.100109
+        },
+        "type": "garden"
+    },
+    "textgrid:3q0km": {
+        "geo": {
+            "lat": 48.807363,
+            "long": 2.121581
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfss": {
+        "geo": {
+            "lat": 48.80735807893785,
+            "long": 2.110694646835327
+        },
+        "type": "garden"
+    },
+    "textgrid:3pxb8": {
+        "geo": {
+            "lat": 48.804318,
+            "long": 2.115225
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfst": {
+        "geo": {
+            "lat": 48.807527,
+            "long": 2.117207
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfsv": {
+        "geo": {
+            "lat": 48.808205,
+            "long": 2.114664
+        },
+        "type": "garden"
+    },
+    "textgrid:3pxb9": {
+        "geo": {
+            "lat": 48.805027,
+            "long": 2.112674
+        },
+        "type": "garden"
+    },
+    "textgrid:3q0kn": {
+        "geo": {
+            "lat": 48.805398,
+            "long": 2.114465
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfsw": {
+        "geo": {
+            "lat": 48.80551,
+            "long": 2.117684
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfsx": {
+        "geo": {
+            "lat": 48.80817,
+            "long": 2.122077
+        },
+        "type": "garden"
+    },
+    "textgrid:3q0kp": {
+        "geo": {
+            "lat": 48.808756,
+            "long": 2.122429
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfsz": {
+        "geo": {
+            "lat": 48.80651,
+            "long": 2.121037
+        },
+        "type": "garden"
+    },
+    "textgrid:3qkrx": {
+        "geo": {
+            "lat": 48.806703,
+            "long": 2.121221
+        },
+        "type": "garden"
+    },
+    "textgrid:3q0kq": {
+        "geo": {
+            "lat": 48.806813,
+            "long": 2.118242
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft0": {
+        "geo": {
+            "lat": 48.804346,
+            "long": 2.11666
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft2": {
+        "geo": {
+            "lat": 48.808132,
+            "long": 2.112498
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft3": {
+        "geo": {
+            "lat": 48.804346,
+            "long": 2.11666
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft4": {
+        "geo": {
+            "lat": 48.808615,
+            "long": 2.116528
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft5": {
+        "geo": {
+            "lat": 48.807426,
+            "long": 2.120975
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft6": {
+        "geo": {
+            "lat": 48.808057,
+            "long": 2.11903
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft7": {
+        "geo": {
+            "lat": 48.807129,
+            "long": 2.122163
+        },
+        "type": "garden"
+    },
+    "textgrid:3q0ks": {
+        "geo": {
+            "lat": 48.80551,
+            "long": 2.117684
+        },
+        "type": "garden"
+    },
+    "textgrid:3q0kt": {
+        "geo": {
+            "lat": 48.80551,
+            "long": 2.117684
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft8": {
+        "geo": {
+            "lat": 48.806145,
+            "long": 2.11237
+        },
+        "type": "garden"
+    },
+    "textgrid:3pft9": {
+        "geo": {
+            "lat": 48.803337,
+            "long": 2.11616
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftb": {
+        "geo": {
+            "lat": 48.804472,
+            "long": 2.110856
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftc": {
+        "geo": {
+            "lat": 48.810137,
+            "long": 2.100377
+        },
+        "type": "garden"
+    },
+    "textgrid:3qkrz": {
+        "geo": {
+            "lat": 48.806504,
+            "long": 2.11384
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftd": {
+        "geo": {
+            "lat": 48.803207,
+            "long": 2.119117
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftf": {
+        "geo": {
+            "lat": 48.803758,
+            "long": 2.119468
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftg": {
+        "geo": {
+            "lat": 48.805085,
+            "long": 2.119238
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfth": {
+        "geo": {
+            "lat": 48.806039,
+            "long": 2.120766
+        },
+        "type": "garden"
+    },
+    "textgrid:3qks2": {
+        "geo": {
+            "lat": 48.804806,
+            "long": 2.120333
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftj": {
+        "geo": {
+            "lat": 48.7979,
+            "long": 2.12062
+        },
+        "type": "garden"
+    },
+    "textgrid:3rc2v": {
+        "geo": {
+            "lat": 48.800118,
+            "long": 2.117014
+        },
+        "type": "garden"
+    },
+    "textgrid:3rc2w": {
+        "geo": {
+            "lat": 48.804101,
+            "long": 2.112662
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftk": {
+        "geo": {
+            "lat": 48.805675,
+            "long": 2.112033
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftm": {
+        "geo": {
+            "lat": 48.8095,
+            "long": 2.11367
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftn": {
+        "geo": {
+            "lat": 48.804522,
+            "long": 2.096269
+        },
+        "type": "garden"
+    },
+    "textgrid:3pftp": {
+        "geo": {
+            "lat": 48.814564,
+            "long": 2.104718
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pftq": {
+        "geo": {
+            "lat": 48.81452,
+            "long": 2.104666
+        },
+        "type": "domestic"
+    },
+    "textgrid:3r30v": {
+        "geo": {
+            "lat": 48.81452,
+            "long": 2.104666
+        },
+        "type": "interior"
+    },
+    "textgrid:3r32r": {
+        "geo": {
+            "lat": 48.81452,
+            "long": 2.104666
+        },
+        "type": "interior"
+    },
+    "textgrid:3r32q": {
+        "geo": {
+            "lat": 48.81452,
+            "long": 2.104666
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfts": {
+        "geo": {
+            "lat": 48.8093,
+            "long": 2.1375
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkqq": {
+        "geo": {
+            "lat": 48.8093,
+            "long": 2.1375
+        },
+        "type": "garden"
+    },
+    "textgrid:3r31r": {
+        "geo": {
+            "lat": 48.8093,
+            "long": 2.1375
+        },
+        "type": "interior"
+    },
+    "textgrid:3pxb1": {
+        "geo": {
+            "lat": 48.804782,
+            "long": 2.120465
+        },
+        "type": "interior"
+    },
+    "textgrid:3pfv3": {
+        "geo": {
+            "lat": 48.807778,
+            "long": 2.128889
+        },
+        "type": "religious"
+    },
+    "textgrid:3rc3c": {
+        "geo": {
+            "lat": 48.8675,
+            "long": 2.094722
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pftx": {
+        "geo": {
+            "lat": 48.860691,
+            "long": 2.097981
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfv0": {
+        "geo": {
+            "lat": 48.860691,
+            "long": 2.097981
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfv1": {
+        "geo": {
+            "lat": 48.87084,
+            "long": 2.126283
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qknn": {
+        "geo": {
+            "lat": 26.0173,
+            "long": -104.41406
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px9p": {
+        "geo": {
+            "lat": 29.84064,
+            "long": 89.29688
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1f7": {
+        "geo": {
+            "lat": 25.0,
+            "long": 45.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfv4": {
+        "geo": {
+            "lat": 48.69096,
+            "long": 9.14062
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfv5": {
+        "geo": {
+            "lat": 51.5,
+            "long": 10.5
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfv6": {
+        "geo": {
+            "lat": 48.37154,
+            "long": 10.89851
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcq": {
+        "geo": {
+            "lat": 52.30066,
+            "long": 7.15763
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxc8": {
+        "geo": {
+            "lat": 52.302898,
+            "long": 7.157145
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pxcv": {
+        "geo": {
+            "lat": 52.36667,
+            "long": 8.31667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0kv": {
+        "geo": {
+            "lat": 50.73438,
+            "long": 7.09549
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfv7": {
+        "geo": {
+            "lat": 52.267,
+            "long": 10.533
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkn9": {
+        "geo": {
+            "lat": 49.12426,
+            "long": 8.59804
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfv8": {
+        "geo": {
+            "lat": 51.78826,
+            "long": 6.13865
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfv9": {
+        "geo": {
+            "lat": 51.94349,
+            "long": 7.16809
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1g": {
+        "geo": {
+            "lat": 51.94527,
+            "long": 7.167919
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg1h": {
+        "geo": {
+            "lat": 51.945078,
+            "long": 7.168292
+        },
+        "type": "military"
+    },
+    "textgrid:3rc22": {
+        "geo": {
+            "lat": 52.2625,
+            "long": 6.711111
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc23": {
+        "geo": {
+            "lat": 52.255,
+            "long": 6.16389
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcm": {
+        "geo": {
+            "lat": 52.25155,
+            "long": 6.155686
+        },
+        "type": "public"
+    },
+    "textgrid:3pxcx": {
+        "geo": {
+            "lat": 52.41874,
+            "long": 8.71763
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvb": {
+        "geo": {
+            "lat": 51.05089,
+            "long": 13.73832
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkn4": {
+        "geo": {
+            "lat": 50.11552,
+            "long": 8.68417
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkmz": {
+        "geo": {
+            "lat": 50.0833,
+            "long": 11.9167
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qwgd": {
+        "geo": {
+            "lat": 50.55162,
+            "long": 9.67518
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxd0": {
+        "geo": {
+            "lat": 52.43367,
+            "long": 9.32473
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvd": {
+        "geo": {
+            "lat": 53.57532,
+            "long": 10.01534
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvf": {
+        "geo": {
+            "lat": 52.37052,
+            "long": 9.73322
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvg": {
+        "geo": {
+            "lat": 52.3722,
+            "long": 9.73278
+        },
+        "type": "public"
+    },
+    "textgrid:3pxd8": {
+        "geo": {
+            "lat": 52.3711,
+            "long": 9.7286
+        },
+        "type": "religious"
+    },
+    "textgrid:3pxd6": {
+        "geo": {
+            "lat": 52.3706,
+            "long": 9.7336
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1jf": {
+        "geo": {
+            "lat": 52.3707,
+            "long": 9.72874
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1gm": {
+        "geo": {
+            "lat": 52.369631,
+            "long": 9.733637
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1gk": {
+        "geo": {
+            "lat": 52.37054,
+            "long": 9.73276
+        },
+        "type": "religious"
+    },
+    "textgrid:3pxd5": {
+        "geo": {
+            "lat": 52.391389,
+            "long": 9.697222
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pxd4": {
+        "geo": {
+            "lat": 52.39126,
+            "long": 9.699767
+        },
+        "type": "garden"
+    },
+    "textgrid:3pxd3": {
+        "geo": {
+            "lat": 52.3917,
+            "long": 9.6983
+        },
+        "type": "garden"
+    },
+    "textgrid:3q1gh": {
+        "geo": {
+            "lat": 52.364607,
+            "long": 9.713099
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1g7": {
+        "geo": {
+            "lat": 52.11457,
+            "long": 8.67343
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r32h": {
+        "geo": {
+            "lat": 52.15077,
+            "long": 9.95112
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxct": {
+        "geo": {
+            "lat": 52.27964,
+            "long": 7.71457
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qknb": {
+        "geo": {
+            "lat": 48.57297,
+            "long": 7.81523
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkn8": {
+        "geo": {
+            "lat": 48.547325,
+            "long": 7.840394
+        },
+        "type": "military"
+    },
+    "textgrid:3pg1j": {
+        "geo": {
+            "lat": 50.93333,
+            "long": 6.95
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxd1": {
+        "geo": {
+            "lat": 51.31667,
+            "long": 9.5
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1gw": {
+        "geo": {
+            "lat": 52.5,
+            "long": 9.11667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxd9": {
+        "geo": {
+            "lat": 53.2509,
+            "long": 10.41409
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqm": {
+        "geo": {
+            "lat": 52.12773,
+            "long": 11.62916
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvh": {
+        "geo": {
+            "lat": 52.124722,
+            "long": 11.634444
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkn7": {
+        "geo": {
+            "lat": 49.98419,
+            "long": 8.2791
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qknc": {
+        "geo": {
+            "lat": 49.4891,
+            "long": 8.46694
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkn6": {
+        "geo": {
+            "lat": 49.4829,
+            "long": 8.46177
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfvj": {
+        "geo": {
+            "lat": 48.13743,
+            "long": 11.57549
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvk": {
+        "geo": {
+            "lat": 51.96236,
+            "long": 7.62571
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8c": {
+        "geo": {
+            "lat": 51.962222,
+            "long": 7.628056
+        },
+        "type": "public"
+    },
+    "textgrid:3q19d": {
+        "geo": {
+            "lat": 51.9637,
+            "long": 7.613056
+        },
+        "type": "military"
+    },
+    "textgrid:3pfvm": {
+        "geo": {
+            "lat": 49.45421,
+            "long": 11.07752
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvn": {
+        "geo": {
+            "lat": 49.4592,
+            "long": 11.0611
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfvp": {
+        "geo": {
+            "lat": 49.451,
+            "long": 11.078056
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfvq": {
+        "geo": {
+            "lat": 49.4552,
+            "long": 11.07659
+        },
+        "type": "religious"
+    },
+    "textgrid:3pxcw": {
+        "geo": {
+            "lat": 52.27264,
+            "long": 8.0498
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxdb": {
+        "geo": {
+            "lat": 52.31928,
+            "long": 10.2352
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r30m": {
+        "geo": {
+            "lat": 49.2317,
+            "long": 8.46074
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpv": {
+        "geo": {
+            "lat": 48.85851,
+            "long": 8.20965
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvr": {
+        "geo": {
+            "lat": 49.01513,
+            "long": 12.10161
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvs": {
+        "geo": {
+            "lat": 49.01949,
+            "long": 12.0983
+        },
+        "type": "religious"
+    },
+    "textgrid:3pxcs": {
+        "geo": {
+            "lat": 52.28509,
+            "long": 7.44055
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1d1": {
+        "geo": {
+            "lat": 54.0887,
+            "long": 12.14049
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2k": {
+        "geo": {
+            "lat": 51.0,
+            "long": 13.25
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvt": {
+        "geo": {
+            "lat": 52.1922,
+            "long": 10.5828
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qwgg": {
+        "geo": {
+            "lat": 50.45503,
+            "long": 8.16863
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkng": {
+        "geo": {
+            "lat": 48.39841,
+            "long": 9.99155
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvv": {
+        "geo": {
+            "lat": 51.95109,
+            "long": 7.98756
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvw": {
+        "geo": {
+            "lat": 51.6669,
+            "long": 6.62037
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1p": {
+        "geo": {
+            "lat": 51.651667,
+            "long": 6.615278
+        },
+        "type": "military"
+    },
+    "textgrid:3ph2w": {
+        "geo": {
+            "lat": 51.21895,
+            "long": 6.76339
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qwgf": {
+        "geo": {
+            "lat": 50.56109,
+            "long": 8.50495
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxbb": {
+        "geo": {
+            "lat": 52.16442,
+            "long": 10.54095
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfvx": {
+        "geo": {
+            "lat": 52.16428,
+            "long": 10.53029
+        },
+        "type": "public"
+    },
+    "textgrid:3qknf": {
+        "geo": {
+            "lat": 49.79708,
+            "long": 9.93365
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qknd": {
+        "geo": {
+            "lat": 49.7928,
+            "long": 9.9391
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkmx": {
+        "geo": {
+            "lat": 49.79001,
+            "long": 9.93691
+        },
+        "type": "religious"
+    },
+    "textgrid:3qkmw": {
+        "geo": {
+            "lat": 49.7937,
+            "long": 9.93257
+        },
+        "type": "religious"
+    },
+    "textgrid:3qwgh": {
+        "geo": {
+            "lat": 49.791154,
+            "long": 9.933451
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfvz": {
+        "geo": {
+            "lat": 51.65877,
+            "long": 6.45297
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfw1": {
+        "geo": {
+            "lat": 52.16045,
+            "long": -0.70312
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfw2": {
+        "geo": {
+            "lat": 47.33333,
+            "long": 13.33333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfw3": {
+        "geo": {
+            "lat": 48.20849,
+            "long": 16.37208
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph7t": {
+        "geo": {
+            "lat": 48.211263,
+            "long": 16.365053
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkph": {
+        "geo": {
+            "lat": 48.20609,
+            "long": 16.41169
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfw4": {
+        "geo": {
+            "lat": 40.0,
+            "long": -4.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfw5": {
+        "geo": {
+            "lat": 40.4165,
+            "long": -3.70256
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfw6": {
+        "geo": {
+            "lat": 40.58901,
+            "long": -4.14803
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkq6": {
+        "geo": {
+            "lat": 43.33904,
+            "long": -1.78938
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfw7": {
+        "geo": {
+            "lat": 42.83333,
+            "long": 12.83333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0ns": {
+        "geo": {
+            "lat": 43.91088,
+            "long": 8.08029
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qknv": {
+        "geo": {
+            "lat": 44.17283,
+            "long": 8.35365
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxbw": {
+        "geo": {
+            "lat": 43.77925,
+            "long": 11.24626
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0pp": {
+        "geo": {
+            "lat": 44.40478,
+            "long": 8.94439
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfw9": {
+        "geo": {
+            "lat": 45.46427,
+            "long": 9.18951
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfwb": {
+        "geo": {
+            "lat": 44.8046,
+            "long": 10.3257
+        },
+        "type": "public"
+    },
+    "textgrid:3pfwc": {
+        "geo": {
+            "lat": 41.89193,
+            "long": 12.51133
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1dn": {
+        "geo": {
+            "lat": 41.896348,
+            "long": 12.475119
+        },
+        "type": "public"
+    },
+    "textgrid:3pfwd": {
+        "geo": {
+            "lat": 41.89314,
+            "long": 12.483
+        },
+        "type": "public"
+    },
+    "textgrid:3px9r": {
+        "geo": {
+            "lat": 41.90627,
+            "long": 12.48366
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfwf": {
+        "geo": {
+            "lat": 41.894694,
+            "long": 12.470806
+        },
+        "type": "domestic"
+    },
+    "textgrid:3px9h": {
+        "geo": {
+            "lat": 41.90318,
+            "long": 12.48984
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfwg": {
+        "geo": {
+            "lat": 41.90221,
+            "long": 12.45305
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1d9": {
+        "geo": {
+            "lat": 41.89582,
+            "long": 12.48426
+        },
+        "type": "monuments"
+    },
+    "textgrid:3q1d3": {
+        "geo": {
+            "lat": 41.90225,
+            "long": 12.45726
+        },
+        "type": "monuments"
+    },
+    "textgrid:3px9d": {
+        "geo": {
+            "lat": 45.43713,
+            "long": 12.33265
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc25": {
+        "geo": {
+            "lat": 45.4281,
+            "long": 12.3436
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfwh": {
+        "geo": {
+            "lat": 41.90225,
+            "long": 12.4533
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qknw": {
+        "geo": {
+            "lat": 45.4299,
+            "long": 10.98444
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfx3": {
+        "geo": {
+            "lat": 35.0,
+            "long": 20.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkp9": {
+        "geo": {
+            "lat": 10.0,
+            "long": -25.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px9g": {
+        "geo": {
+            "lat": 32.0,
+            "long": -6.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfwj": {
+        "geo": {
+            "lat": 43.73141,
+            "long": 7.41903
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfwk": {
+        "geo": {
+            "lat": 52.25,
+            "long": 5.75
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcf": {
+        "geo": {
+            "lat": 52.155,
+            "long": 5.3875
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfwm": {
+        "geo": {
+            "lat": 52.37403,
+            "long": 4.88969
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1j7": {
+        "geo": {
+            "lat": 52.3744,
+            "long": 4.8931
+        },
+        "type": "military"
+    },
+    "textgrid:3q1j5": {
+        "geo": {
+            "lat": 52.37314,
+            "long": 4.89136
+        },
+        "type": "public"
+    },
+    "textgrid:3q1j3": {
+        "geo": {
+            "lat": 52.37393,
+            "long": 4.89178
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1j2": {
+        "geo": {
+            "lat": 52.36834,
+            "long": 4.88935
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1j1": {
+        "geo": {
+            "lat": 52.37437,
+            "long": 4.89824
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1j0": {
+        "geo": {
+            "lat": 52.37453,
+            "long": 4.88399
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1hz": {
+        "geo": {
+            "lat": 52.37027,
+            "long": 4.89978
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1hx": {
+        "geo": {
+            "lat": 52.36759,
+            "long": 4.8868
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1hw": {
+        "geo": {
+            "lat": 52.3697,
+            "long": 4.8974
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r32g": {
+        "geo": {
+            "lat": 52.369167,
+            "long": 4.8975
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1hb": {
+        "geo": {
+            "lat": 52.412,
+            "long": 4.8079
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r32d": {
+        "geo": {
+            "lat": 52.36701,
+            "long": 4.89325
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r32c": {
+        "geo": {
+            "lat": 52.37444,
+            "long": 4.88972
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r32b": {
+        "geo": {
+            "lat": 52.37917,
+            "long": 4.89528
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r329": {
+        "geo": {
+            "lat": 52.37201,
+            "long": 4.90571
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfwr": {
+        "geo": {
+            "lat": 51.26667,
+            "long": 3.90833
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1q": {
+        "geo": {
+            "lat": 51.495,
+            "long": 4.29167
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqv": {
+        "geo": {
+            "lat": 51.494536879530365,
+            "long": 4.269371626985276
+        },
+        "type": "military"
+    },
+    "textgrid:3pg3w": {
+        "geo": {
+            "lat": 52.00667,
+            "long": 4.35556
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1h7": {
+        "geo": {
+            "lat": 52.0125,
+            "long": 4.3553
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1hd": {
+        "geo": {
+            "lat": 52.0123,
+            "long": 4.3607
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1hf": {
+        "geo": {
+            "lat": 52.011421,
+            "long": 4.357903
+        },
+        "type": "public"
+    },
+    "textgrid:3q1hg": {
+        "geo": {
+            "lat": 52.001111,
+            "long": 4.366939
+        },
+        "type": "other"
+    },
+    "textgrid:3pg1s": {
+        "geo": {
+            "lat": 51.81,
+            "long": 5.24444
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px90": {
+        "geo": {
+            "lat": 52.07667,
+            "long": 4.29861
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1v": {
+        "geo": {
+            "lat": 51.81,
+            "long": 4.67361
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1t": {
+        "geo": {
+            "lat": 51.83652,
+            "long": 4.97243
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px93": {
+        "geo": {
+            "lat": 52.01667,
+            "long": 4.70833
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1h5": {
+        "geo": {
+            "lat": 52.01062,
+            "long": 4.71163
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfws": {
+        "geo": {
+            "lat": 52.23411,
+            "long": 5.94592
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pxck": {
+        "geo": {
+            "lat": 52.23873,
+            "long": 5.93682
+        },
+        "type": "garden"
+    },
+    "textgrid:3q1gr": {
+        "geo": {
+            "lat": 52.25,
+            "long": 5.75
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfwt": {
+        "geo": {
+            "lat": 51.28,
+            "long": 4.05278
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1g3": {
+        "geo": {
+            "lat": 51.70833,
+            "long": 4.70417
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px8z": {
+        "geo": {
+            "lat": 52.15833,
+            "long": 4.49306
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1hs": {
+        "geo": {
+            "lat": 52.15889,
+            "long": 4.49222
+        },
+        "type": "military"
+    },
+    "textgrid:3q1hv": {
+        "geo": {
+            "lat": 52.15703,
+            "long": 4.48594
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rc20": {
+        "geo": {
+            "lat": 52.157119,
+            "long": 4.485229
+        },
+        "type": "public"
+    },
+    "textgrid:3rc38": {
+        "geo": {
+            "lat": 51.5,
+            "long": 3.61389
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxc5": {
+        "geo": {
+            "lat": 52.33,
+            "long": 5.06944
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcd": {
+        "geo": {
+            "lat": 52.295272,
+            "long": 5.154749
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q19b": {
+        "geo": {
+            "lat": 52.292972,
+            "long": 5.160428
+        },
+        "type": "military"
+    },
+    "textgrid:3pfww": {
+        "geo": {
+            "lat": 51.8425,
+            "long": 5.85278
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpg": {
+        "geo": {
+            "lat": 52.505,
+            "long": 4.95972
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px9v": {
+        "geo": {
+            "lat": 52.03634,
+            "long": 4.32501
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1jb": {
+        "geo": {
+            "lat": 52.049,
+            "long": 4.3276
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfwx": {
+        "geo": {
+            "lat": 51.9225,
+            "long": 4.47917
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1hc": {
+        "geo": {
+            "lat": 51.97635,
+            "long": 4.12767
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1h9": {
+        "geo": {
+            "lat": 51.9214,
+            "long": 4.485
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1h8": {
+        "geo": {
+            "lat": 51.921111,
+            "long": 4.48579
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfwz": {
+        "geo": {
+            "lat": 51.35929,
+            "long": 4.30999
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfx0": {
+        "geo": {
+            "lat": 51.2275,
+            "long": 3.79861
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqj": {
+        "geo": {
+            "lat": 51.22719,
+            "long": 3.79679
+        },
+        "type": "military"
+    },
+    "textgrid:3pxcb": {
+        "geo": {
+            "lat": 52.17333,
+            "long": 5.29167
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcc": {
+        "geo": {
+            "lat": 52.1908,
+            "long": 5.2822
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pxc7": {
+        "geo": {
+            "lat": 52.192744,
+            "long": 5.286431
+        },
+        "type": "garden"
+    },
+    "textgrid:3pfx1": {
+        "geo": {
+            "lat": 51.58417,
+            "long": 4.31944
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqt": {
+        "geo": {
+            "lat": 51.584629,
+            "long": 4.327559
+        },
+        "type": "military"
+    },
+    "textgrid:3pfx2": {
+        "geo": {
+            "lat": 51.330507,
+            "long": 3.857145
+        },
+        "type": "military"
+    },
+    "textgrid:3pg1r": {
+        "geo": {
+            "lat": 51.88667,
+            "long": 5.42917
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1z": {
+        "geo": {
+            "lat": 51.53167,
+            "long": 4.22083
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcg": {
+        "geo": {
+            "lat": 52.186111,
+            "long": 5.606667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1w": {
+        "geo": {
+            "lat": 51.69167,
+            "long": 4.43889
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqs": {
+        "geo": {
+            "lat": 51.69167,
+            "long": 4.43889
+        },
+        "type": "military"
+    },
+    "textgrid:3pg1x": {
+        "geo": {
+            "lat": 51.691958,
+            "long": 4.437864
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfx4": {
+        "geo": {
+            "lat": 51.41667,
+            "long": 3.75
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpb": {
+        "geo": {
+            "lat": 52.816667,
+            "long": 4.77
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfx5": {
+        "geo": {
+            "lat": 50.2917,
+            "long": 5.3763
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg2m": {
+        "geo": {
+            "lat": 50.93604,
+            "long": 4.0355
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfwn": {
+        "geo": {
+            "lat": 51.21989,
+            "long": 4.40346
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpt": {
+        "geo": {
+            "lat": 51.22317,
+            "long": 4.40626
+        },
+        "type": "public"
+    },
+    "textgrid:3pg3d": {
+        "geo": {
+            "lat": 51.221986,
+            "long": 4.401522
+        },
+        "type": "public"
+    },
+    "textgrid:3pg3c": {
+        "geo": {
+            "lat": 51.22055,
+            "long": 4.40055
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfwp": {
+        "geo": {
+            "lat": 51.2211,
+            "long": 4.4045
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg3h": {
+        "geo": {
+            "lat": 51.2202,
+            "long": 4.4106
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg3g": {
+        "geo": {
+            "lat": 51.2289,
+            "long": 4.40479
+        },
+        "type": "public"
+    },
+    "textgrid:3pg38": {
+        "geo": {
+            "lat": 51.22111,
+            "long": 4.39972
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg3f": {
+        "geo": {
+            "lat": 51.218056,
+            "long": 4.408611
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg39": {
+        "geo": {
+            "lat": 51.221327,
+            "long": 4.399155
+        },
+        "type": "public"
+    },
+    "textgrid:3pg3b": {
+        "geo": {
+            "lat": 51.208425,
+            "long": 4.392739
+        },
+        "type": "military"
+    },
+    "textgrid:3pg2n": {
+        "geo": {
+            "lat": 50.91011,
+            "long": 4.19836
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfx6": {
+        "geo": {
+            "lat": 51.20892,
+            "long": 3.22424
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfx7": {
+        "geo": {
+            "lat": 50.85045,
+            "long": 4.34878
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfx8": {
+        "geo": {
+            "lat": 50.84778,
+            "long": 4.36028
+        },
+        "type": "religious"
+    },
+    "textgrid:3q19f": {
+        "geo": {
+            "lat": 50.852094,
+            "long": 4.359738
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q19q": {
+        "geo": {
+            "lat": 50.851892,
+            "long": 4.353206
+        },
+        "type": "religious"
+    },
+    "textgrid:3q19n": {
+        "geo": {
+            "lat": 50.847115,
+            "long": 4.346711
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1b1": {
+        "geo": {
+            "lat": 50.845607,
+            "long": 4.347867
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg2g": {
+        "geo": {
+            "lat": 50.841528,
+            "long": 4.351111
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg2h": {
+        "geo": {
+            "lat": 50.84335,
+            "long": 4.354758
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1d8": {
+        "geo": {
+            "lat": 50.852674,
+            "long": 4.350381
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1d6": {
+        "geo": {
+            "lat": 50.845,
+            "long": 4.35
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg2d": {
+        "geo": {
+            "lat": 50.84685,
+            "long": 4.35222
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q19j": {
+        "geo": {
+            "lat": 50.8465,
+            "long": 4.3518
+        },
+        "type": "public"
+    },
+    "textgrid:3q1b2": {
+        "geo": {
+            "lat": 50.845799,
+            "long": 4.348218
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q19g": {
+        "geo": {
+            "lat": 50.8497,
+            "long": 4.35389
+        },
+        "type": "public"
+    },
+    "textgrid:3pg2k": {
+        "geo": {
+            "lat": 50.842657,
+            "long": 4.360552
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pg2f": {
+        "geo": {
+            "lat": 50.8446,
+            "long": 4.3637
+        },
+        "type": "garden"
+    },
+    "textgrid:3q19p": {
+        "geo": {
+            "lat": 50.852454,
+            "long": 4.350043
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q19x": {
+        "geo": {
+            "lat": 50.836246,
+            "long": 4.359656
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q19r": {
+        "geo": {
+            "lat": 50.850217,
+            "long": 4.354686
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r31h": {
+        "geo": {
+            "lat": 50.833,
+            "long": 4.345
+        },
+        "type": "military"
+    },
+    "textgrid:3pfx9": {
+        "geo": {
+            "lat": 51.0,
+            "long": 4.5
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxb": {
+        "geo": {
+            "lat": 51.05,
+            "long": 3.71667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxc": {
+        "geo": {
+            "lat": 51.042318,
+            "long": 3.726656
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfxd": {
+        "geo": {
+            "lat": 51.054506,
+            "long": 3.725323
+        },
+        "type": "public"
+    },
+    "textgrid:3qkps": {
+        "geo": {
+            "lat": 51.057173,
+            "long": 3.726126
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkp0": {
+        "geo": {
+            "lat": 51.05468,
+            "long": 3.721975
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg2p": {
+        "geo": {
+            "lat": 51.059454,
+            "long": 3.715612
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pg2q": {
+        "geo": {
+            "lat": 51.056462,
+            "long": 3.720138
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfxf": {
+        "geo": {
+            "lat": 50.63373,
+            "long": 5.56749
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r320": {
+        "geo": {
+            "lat": 50.454944,
+            "long": 3.951972
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1b7": {
+        "geo": {
+            "lat": 50.458434,
+            "long": 3.95875
+        },
+        "type": "military"
+    },
+    "textgrid:3pg2r": {
+        "geo": {
+            "lat": 51.13008,
+            "long": 2.75135
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg2c": {
+        "geo": {
+            "lat": 50.92814,
+            "long": 4.42938
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg2b": {
+        "geo": {
+            "lat": 51.06041,
+            "long": 4.36019
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxg": {
+        "geo": {
+            "lat": 52.0,
+            "long": 20.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2c": {
+        "geo": {
+            "lat": 39.6945,
+            "long": -8.13057
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxh": {
+        "geo": {
+            "lat": 45.46805,
+            "long": 6.48547
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0v": {
+        "geo": {
+            "lat": 50.08804,
+            "long": 14.42076
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph1v": {
+        "geo": {
+            "lat": 47.0,
+            "long": 20.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpq": {
+        "geo": {
+            "lat": 31.76904,
+            "long": 35.21633
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpp": {
+        "geo": {
+            "lat": 31.77847,
+            "long": 35.22979
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1ct": {
+        "geo": {
+            "lat": 31.77801,
+            "long": 35.23595
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfxm": {
+        "geo": {
+            "lat": 46.0,
+            "long": 2.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxn": {
+        "geo": {
+            "lat": 50.10521,
+            "long": 1.83547
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8d": {
+        "geo": {
+            "lat": 43.31083,
+            "long": 3.47583
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0mm": {
+        "geo": {
+            "lat": 44.19991,
+            "long": 0.62664
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0mq": {
+        "geo": {
+            "lat": 44.203056,
+            "long": 0.618611
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg37": {
+        "geo": {
+            "lat": 47.07888,
+            "long": -1.40254
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1d": {
+        "geo": {
+            "lat": 49.96826,
+            "long": 1.94266
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxp": {
+        "geo": {
+            "lat": 43.5283,
+            "long": 5.44973
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0ms": {
+        "geo": {
+            "lat": 43.529991,
+            "long": 5.447631
+        },
+        "type": "public"
+    },
+    "textgrid:3pfxq": {
+        "geo": {
+            "lat": 49.9,
+            "long": 2.3
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxr": {
+        "geo": {
+            "lat": 49.89455,
+            "long": 2.30224
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph3g": {
+        "geo": {
+            "lat": 47.47381,
+            "long": -0.54774
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph3f": {
+        "geo": {
+            "lat": 47.47044,
+            "long": -0.55495
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph3d": {
+        "geo": {
+            "lat": 47.476377,
+            "long": -0.562649
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph3b": {
+        "geo": {
+            "lat": 47.470065,
+            "long": -0.560005
+        },
+        "type": "domestic"
+    },
+    "textgrid:3rc21": {
+        "geo": {
+            "lat": 47.473088,
+            "long": -0.548173
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph38": {
+        "geo": {
+            "lat": 47.333,
+            "long": -0.5
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxs": {
+        "geo": {
+            "lat": 43.58579,
+            "long": 7.10831
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxt": {
+        "geo": {
+            "lat": 43.59111,
+            "long": 7.12707
+        },
+        "type": "military"
+    },
+    "textgrid:3q0nk": {
+        "geo": {
+            "lat": 43.54382,
+            "long": 7.12996
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkrb": {
+        "geo": {
+            "lat": 43.58542,
+            "long": 7.127216
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0mt": {
+        "geo": {
+            "lat": 48.94788,
+            "long": 2.24744
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0mv": {
+        "geo": {
+            "lat": 48.942462,
+            "long": 2.246492
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0mw": {
+        "geo": {
+            "lat": 43.67681,
+            "long": 4.63031
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0mx": {
+        "geo": {
+            "lat": 43.67792,
+            "long": 4.6309
+        },
+        "type": "public"
+    },
+    "textgrid:3q1df": {
+        "geo": {
+            "lat": 43.676663,
+            "long": 4.629837
+        },
+        "type": "public"
+    },
+    "textgrid:3q1f9": {
+        "geo": {
+            "lat": 43.676663,
+            "long": 4.629837
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0mz": {
+        "geo": {
+            "lat": 43.6725,
+            "long": 4.616389
+        },
+        "type": "monuments"
+    },
+    "textgrid:3q0n0": {
+        "geo": {
+            "lat": 43.676988,
+            "long": 4.626589
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0n2": {
+        "geo": {
+            "lat": 43.676827,
+            "long": 4.627574
+        },
+        "type": "public"
+    },
+    "textgrid:3q0n3": {
+        "geo": {
+            "lat": 43.675898,
+            "long": 4.62584
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0n4": {
+        "geo": {
+            "lat": 43.678931,
+            "long": 4.626947
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q0n5": {
+        "geo": {
+            "lat": 43.676439,
+            "long": 4.627713
+        },
+        "type": "monuments"
+    },
+    "textgrid:3q0pz": {
+        "geo": {
+            "lat": 43.68146,
+            "long": 4.62168
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1dx": {
+        "geo": {
+            "lat": 49.88122,
+            "long": 1.12875
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxv": {
+        "geo": {
+            "lat": 50.29301,
+            "long": 2.78186
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1h1": {
+        "geo": {
+            "lat": 50.287956,
+            "long": 2.767975
+        },
+        "type": "military"
+    },
+    "textgrid:3q1h0": {
+        "geo": {
+            "lat": 50.282915,
+            "long": 2.760005
+        },
+        "type": "military"
+    },
+    "textgrid:3q0n6": {
+        "geo": {
+            "lat": 48.08246,
+            "long": 1.88098
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0n7": {
+        "geo": {
+            "lat": 43.37161,
+            "long": 5.6341
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxx": {
+        "geo": {
+            "lat": 47.7996,
+            "long": 3.57033
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfxz": {
+        "geo": {
+            "lat": 43.94834,
+            "long": 4.80892
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz0": {
+        "geo": {
+            "lat": 43.95069,
+            "long": 4.80752
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q0n8": {
+        "geo": {
+            "lat": 43.950692,
+            "long": 4.806281
+        },
+        "type": "public"
+    },
+    "textgrid:3q0n9": {
+        "geo": {
+            "lat": 43.944154,
+            "long": 4.807807
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0nb": {
+        "geo": {
+            "lat": 43.951471,
+            "long": 4.807843
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1fb": {
+        "geo": {
+            "lat": 43.953841,
+            "long": 4.804845
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfz1": {
+        "geo": {
+            "lat": 50.22316,
+            "long": 4.28338
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph7r": {
+        "geo": {
+            "lat": 43.49257,
+            "long": -1.47624
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0nc": {
+        "geo": {
+            "lat": 43.80806,
+            "long": 4.64417
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz2": {
+        "geo": {
+            "lat": 49.14232,
+            "long": 2.28705
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz3": {
+        "geo": {
+            "lat": 49.43333,
+            "long": 2.08333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1f1": {
+        "geo": {
+            "lat": 47.24878,
+            "long": 6.01815
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0nd": {
+        "geo": {
+            "lat": 43.34122,
+            "long": 3.21402
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkq4": {
+        "geo": {
+            "lat": 43.4376,
+            "long": -1.59127
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkq2": {
+        "geo": {
+            "lat": 48.5894,
+            "long": 6.8439
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz4": {
+        "geo": {
+            "lat": 49.55671,
+            "long": 2.05755
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3n": {
+        "geo": {
+            "lat": 47.59432,
+            "long": 1.32912
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3p": {
+        "geo": {
+            "lat": 44.84044,
+            "long": -0.5805
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph9m": {
+        "geo": {
+            "lat": 44.8458,
+            "long": -0.5722
+        },
+        "type": "military"
+    },
+    "textgrid:3ph9k": {
+        "geo": {
+            "lat": 44.836621,
+            "long": -0.579559
+        },
+        "type": "military"
+    },
+    "textgrid:3ph9j": {
+        "geo": {
+            "lat": 44.829363,
+            "long": -0.56133
+        },
+        "type": "military"
+    },
+    "textgrid:3ph9h": {
+        "geo": {
+            "lat": 44.83769,
+            "long": -0.57768
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph9f": {
+        "geo": {
+            "lat": 44.8353,
+            "long": -0.571389
+        },
+        "type": "public"
+    },
+    "textgrid:3qknq": {
+        "geo": {
+            "lat": 44.847886,
+            "long": -0.589976
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph8b": {
+        "geo": {
+            "lat": 44.847716,
+            "long": -0.582816
+        },
+        "type": "public"
+    },
+    "textgrid:3q1gd": {
+        "geo": {
+            "lat": 44.841229,
+            "long": -0.576032
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0nf": {
+        "geo": {
+            "lat": 43.4481,
+            "long": 3.65781
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz5": {
+        "geo": {
+            "lat": 50.94783,
+            "long": 2.19576
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz6": {
+        "geo": {
+            "lat": 48.77888,
+            "long": 2.31781
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz7": {
+        "geo": {
+            "lat": 47.25,
+            "long": 4.16667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph3m": {
+        "geo": {
+            "lat": 48.16667,
+            "long": -2.83333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz8": {
+        "geo": {
+            "lat": 48.66661,
+            "long": 2.99976
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0nj": {
+        "geo": {
+            "lat": 43.112266,
+            "long": 6.314021
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfz9": {
+        "geo": {
+            "lat": 50.95194,
+            "long": 1.85635
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bc": {
+        "geo": {
+            "lat": 50.17596,
+            "long": 3.23472
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bd": {
+        "geo": {
+            "lat": 50.172154,
+            "long": 3.241154
+        },
+        "type": "military"
+    },
+    "textgrid:3q1bf": {
+        "geo": {
+            "lat": 50.176347,
+            "long": 3.234641
+        },
+        "type": "public"
+    },
+    "textgrid:3r31q": {
+        "geo": {
+            "lat": 50.178412,
+            "long": 3.239181
+        },
+        "type": "military"
+    },
+    "textgrid:3ph8m": {
+        "geo": {
+            "lat": 43.61528,
+            "long": 1.44308
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0nm": {
+        "geo": {
+            "lat": 43.21571,
+            "long": 5.53855
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0nn": {
+        "geo": {
+            "lat": 43.31829,
+            "long": 1.95449
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0np": {
+        "geo": {
+            "lat": 44.04022,
+            "long": 1.10702
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkp7": {
+        "geo": {
+            "lat": 45.350668,
+            "long": -0.811862
+        },
+        "type": "military"
+    },
+    "textgrid:3ph9s": {
+        "geo": {
+            "lat": 45.35534,
+            "long": -0.82528
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzb": {
+        "geo": {
+            "lat": 46.78112,
+            "long": 4.85372
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph84": {
+        "geo": {
+            "lat": 48.95393,
+            "long": 4.36724
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzc": {
+        "geo": {
+            "lat": 49.0,
+            "long": 4.5
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph9q": {
+        "geo": {
+            "lat": 46.68702,
+            "long": -1.05024
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxbv": {
+        "geo": {
+            "lat": 46.68453,
+            "long": 0.37128
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph9n": {
+        "geo": {
+            "lat": 49.41794,
+            "long": 2.82606
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0nq": {
+        "geo": {
+            "lat": 49.41821,
+            "long": 2.82776
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0nr": {
+        "geo": {
+            "lat": 48.60603,
+            "long": 2.48757
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzd": {
+        "geo": {
+            "lat": 50.82803,
+            "long": 3.26487
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqk": {
+        "geo": {
+            "lat": 50.830601,
+            "long": 3.266874
+        },
+        "type": "military"
+    },
+    "textgrid:3ph8p": {
+        "geo": {
+            "lat": 44.5136,
+            "long": 0.07813
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzf": {
+        "geo": {
+            "lat": 47.31667,
+            "long": 5.01667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzg": {
+        "geo": {
+            "lat": 50.30372,
+            "long": 1.91694
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph34": {
+        "geo": {
+            "lat": 47.19372,
+            "long": -0.27492
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph35": {
+        "geo": {
+            "lat": 47.190816,
+            "long": -0.268844
+        },
+        "type": "public"
+    },
+    "textgrid:3pfzh": {
+        "geo": {
+            "lat": 51.03297,
+            "long": 2.377
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1k": {
+        "geo": {
+            "lat": 51.038299,
+            "long": 2.372504
+        },
+        "type": "military"
+    },
+    "textgrid:3pg1m": {
+        "geo": {
+            "lat": 51.036068,
+            "long": 2.38085
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg1n": {
+        "geo": {
+            "lat": 51.041981,
+            "long": 2.373318
+        },
+        "type": "military"
+    },
+    "textgrid:3pfzj": {
+        "geo": {
+            "lat": 48.40908,
+            "long": 2.70177
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpj": {
+        "geo": {
+            "lat": 50.07229,
+            "long": 1.94324
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1f0": {
+        "geo": {
+            "lat": 47.2,
+            "long": 6.1
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzk": {
+        "geo": {
+            "lat": 50.51501,
+            "long": 2.13292
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzm": {
+        "geo": {
+            "lat": 51.07316,
+            "long": 2.66803
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkp3": {
+        "geo": {
+            "lat": 51.072222,
+            "long": 2.661389
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkpn": {
+        "geo": {
+            "lat": 49.49234,
+            "long": 2.67496
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8q": {
+        "geo": {
+            "lat": 43.8292,
+            "long": 1.29673
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpk": {
+        "geo": {
+            "lat": 49.46343,
+            "long": 2.67446
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg31": {
+        "geo": {
+            "lat": 50.37349,
+            "long": 2.0382
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0nt": {
+        "geo": {
+            "lat": 45.92395,
+            "long": -1.29969
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1dz": {
+        "geo": {
+            "lat": 48.88333,
+            "long": 1.45948
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0nv": {
+        "geo": {
+            "lat": 45.88477,
+            "long": -1.189296
+        },
+        "type": "military"
+    },
+    "textgrid:3q0nw": {
+        "geo": {
+            "lat": 45.85717,
+            "long": -1.174
+        },
+        "type": "military"
+    },
+    "textgrid:3ph8g": {
+        "geo": {
+            "lat": 48.2514,
+            "long": 2.43722
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph85": {
+        "geo": {
+            "lat": 48.83423,
+            "long": 4.52311
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkrk": {
+        "geo": {
+            "lat": 48.945651,
+            "long": 2.686131
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph1x": {
+        "geo": {
+            "lat": 44.0,
+            "long": 4.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2j": {
+        "geo": {
+            "lat": 46.16667,
+            "long": -1.15
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8j": {
+        "geo": {
+            "lat": 46.1558,
+            "long": -1.156998
+        },
+        "type": "military"
+    },
+    "textgrid:3q1gf": {
+        "geo": {
+            "lat": 46.1584,
+            "long": -1.20968
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph8n": {
+        "geo": {
+            "lat": 46.167678,
+            "long": -1.152061
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph9p": {
+        "geo": {
+            "lat": 46.158169,
+            "long": -1.153649
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph9r": {
+        "geo": {
+            "lat": 46.155811,
+            "long": -1.153452
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfzn": {
+        "geo": {
+            "lat": 50.63297,
+            "long": 3.05858
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzp": {
+        "geo": {
+            "lat": 50.635201,
+            "long": 3.060004
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfzq": {
+        "geo": {
+            "lat": 50.640971,
+            "long": 3.04457
+        },
+        "type": "military"
+    },
+    "textgrid:3pfzs": {
+        "geo": {
+            "lat": 50.638532,
+            "long": 3.066201
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfzv": {
+        "geo": {
+            "lat": 50.629743,
+            "long": 3.068787
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pfzw": {
+        "geo": {
+            "lat": 50.639342,
+            "long": 3.070825
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph8r": {
+        "geo": {
+            "lat": 44.5531,
+            "long": -0.24951
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph20": {
+        "geo": {
+            "lat": 48.76667,
+            "long": 6.13333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bg": {
+        "geo": {
+            "lat": 49.0446,
+            "long": 2.50479
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph21": {
+        "geo": {
+            "lat": 48.59273,
+            "long": 6.49383
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkn1": {
+        "geo": {
+            "lat": 48.594739,
+            "long": 6.49002
+        },
+        "type": "domestic"
+    },
+    "textgrid:3pfzx": {
+        "geo": {
+            "lat": 45.74846,
+            "long": 4.84671
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfzz": {
+        "geo": {
+            "lat": 45.7608,
+            "long": 4.8274
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg00": {
+        "geo": {
+            "lat": 45.7564,
+            "long": 4.833864
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg01": {
+        "geo": {
+            "lat": 45.767743,
+            "long": 4.835771
+        },
+        "type": "public"
+    },
+    "textgrid:3pg02": {
+        "geo": {
+            "lat": 45.757937,
+            "long": 4.832547
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkrd": {
+        "geo": {
+            "lat": 45.767492,
+            "long": 4.833515
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3phb1": {
+        "geo": {
+            "lat": 45.767642,
+            "long": 4.833456
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg03": {
+        "geo": {
+            "lat": 45.759502,
+            "long": 4.828716
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg04": {
+        "geo": {
+            "lat": 46.31407,
+            "long": 4.82823
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8s": {
+        "geo": {
+            "lat": 44.12488,
+            "long": 0.82486
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8v": {
+        "geo": {
+            "lat": 43.307222,
+            "long": 3.126667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1db": {
+        "geo": {
+            "lat": 43.3072,
+            "long": 3.1267
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3phb9": {
+        "geo": {
+            "lat": 46.295278,
+            "long": -1.105
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1gp": {
+        "geo": {
+            "lat": 49.42559,
+            "long": 2.81806
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8t": {
+        "geo": {
+            "lat": 44.50012,
+            "long": 0.16526
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0p4": {
+        "geo": {
+            "lat": 43.35618,
+            "long": 3.52795
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg05": {
+        "geo": {
+            "lat": 43.29695,
+            "long": 5.38107
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0p2": {
+        "geo": {
+            "lat": 43.290377,
+            "long": 5.36565
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0p3": {
+        "geo": {
+            "lat": 43.292525,
+            "long": 5.373364
+        },
+        "type": "military"
+    },
+    "textgrid:3q1f5": {
+        "geo": {
+            "lat": 43.2994,
+            "long": 5.36528
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg06": {
+        "geo": {
+            "lat": 43.295038,
+            "long": 5.362435
+        },
+        "type": "military"
+    },
+    "textgrid:3pg07": {
+        "geo": {
+            "lat": 43.28333,
+            "long": 5.35
+        },
+        "type": "military"
+    },
+    "textgrid:3pg08": {
+        "geo": {
+            "lat": 43.29748,
+            "long": 5.36991
+        },
+        "type": "public"
+    },
+    "textgrid:3pg09": {
+        "geo": {
+            "lat": 43.29589,
+            "long": 5.37395
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph24": {
+        "geo": {
+            "lat": 48.96014,
+            "long": 2.87885
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph9t": {
+        "geo": {
+            "lat": 48.5457,
+            "long": 2.65356
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkq1": {
+        "geo": {
+            "lat": 49.11911,
+            "long": 6.17269
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8x": {
+        "geo": {
+            "lat": 44.34004,
+            "long": 0.3083
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph9v": {
+        "geo": {
+            "lat": 49.88333,
+            "long": 1.66667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0c": {
+        "geo": {
+            "lat": 45.26015,
+            "long": 6.90043
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1fz": {
+        "geo": {
+            "lat": 43.3643,
+            "long": 1.81979
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1c7": {
+        "geo": {
+            "lat": 49.46375,
+            "long": 2.69327
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1gq": {
+        "geo": {
+            "lat": 45.50509,
+            "long": 6.05634
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0p5": {
+        "geo": {
+            "lat": 43.61092,
+            "long": 3.87723
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1fx": {
+        "geo": {
+            "lat": 43.610333,
+            "long": 3.88703
+        },
+        "type": "military"
+    },
+    "textgrid:3q0p6": {
+        "geo": {
+            "lat": 43.614303,
+            "long": 3.872201
+        },
+        "type": "garden"
+    },
+    "textgrid:3q0p8": {
+        "geo": {
+            "lat": 43.611183,
+            "long": 3.872424
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0p9": {
+        "geo": {
+            "lat": 43.611847,
+            "long": 3.874829
+        },
+        "type": "public"
+    },
+    "textgrid:3pg0d": {
+        "geo": {
+            "lat": 48.80467,
+            "long": 2.146246
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0f": {
+        "geo": {
+            "lat": 46.568951,
+            "long": 3.330208
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph25": {
+        "geo": {
+            "lat": 48.68439,
+            "long": 6.18496
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkrt": {
+        "geo": {
+            "lat": 48.692405,
+            "long": 6.188614
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkrs": {
+        "geo": {
+            "lat": 48.697742,
+            "long": 6.179077
+        },
+        "type": "domestic"
+    },
+    "textgrid:3ph9w": {
+        "geo": {
+            "lat": 48.89198,
+            "long": 2.20675
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phb0": {
+        "geo": {
+            "lat": 48.890861,
+            "long": 2.196083
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph3j": {
+        "geo": {
+            "lat": 47.21725,
+            "long": -1.55336
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph3r": {
+        "geo": {
+            "lat": 47.216624,
+            "long": -1.554811
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph3p": {
+        "geo": {
+            "lat": 47.218401,
+            "long": -1.550088
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph3q": {
+        "geo": {
+            "lat": 47.216217,
+            "long": -1.548921
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkpd": {
+        "geo": {
+            "lat": 47.226643,
+            "long": -1.558217
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkpc": {
+        "geo": {
+            "lat": 47.209419,
+            "long": -1.565511
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3qkpf": {
+        "geo": {
+            "lat": 47.28654,
+            "long": -2.03048
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph97": {
+        "geo": {
+            "lat": 43.18396,
+            "long": 3.00141
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1fw": {
+        "geo": {
+            "lat": 43.18395,
+            "long": 3.003981
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q0pb": {
+        "geo": {
+            "lat": 43.83378,
+            "long": 4.35962
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0pc": {
+        "geo": {
+            "lat": 43.8349,
+            "long": 4.3596
+        },
+        "type": "public"
+    },
+    "textgrid:3q0pd": {
+        "geo": {
+            "lat": 43.838144,
+            "long": 4.356125
+        },
+        "type": "public"
+    },
+    "textgrid:3q1fr": {
+        "geo": {
+            "lat": 43.837195,
+            "long": 4.361145
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1fq": {
+        "geo": {
+            "lat": 43.837195,
+            "long": 4.361145
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1dm": {
+        "geo": {
+            "lat": 43.83672,
+            "long": 4.359482
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0pf": {
+        "geo": {
+            "lat": 43.836704,
+            "long": 4.360459
+        },
+        "type": "public"
+    },
+    "textgrid:3q0pg": {
+        "geo": {
+            "lat": 43.839985,
+            "long": 4.348744
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0ph": {
+        "geo": {
+            "lat": 43.843073,
+            "long": 4.349343
+        },
+        "type": "public"
+    },
+    "textgrid:3qkp5": {
+        "geo": {
+            "lat": 43.83949,
+            "long": 4.363137
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1ft": {
+        "geo": {
+            "lat": 43.836058,
+            "long": 4.362713
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q0pj": {
+        "geo": {
+            "lat": 43.70313,
+            "long": 7.26608
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph28": {
+        "geo": {
+            "lat": 47.90289,
+            "long": 1.90389
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2t": {
+        "geo": {
+            "lat": 47.897222,
+            "long": 1.905556
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph2v": {
+        "geo": {
+            "lat": 47.901895,
+            "long": 1.910519
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg0g": {
+        "geo": {
+            "lat": 48.85341,
+            "long": 2.3488
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpz": {
+        "geo": {
+            "lat": 48.76771,
+            "long": 7.2582
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpx": {
+        "geo": {
+            "lat": 48.768556,
+            "long": 7.256361
+        },
+        "type": "military"
+    },
+    "textgrid:3pg1f": {
+        "geo": {
+            "lat": 49.63333,
+            "long": 2.8
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phb4": {
+        "geo": {
+            "lat": 48.17185,
+            "long": 2.25185
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phb5": {
+        "geo": {
+            "lat": 48.92902,
+            "long": 2.04952
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phb6": {
+        "geo": {
+            "lat": 48.928611,
+            "long": 2.041944
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph2b": {
+        "geo": {
+            "lat": 46.58333,
+            "long": 0.33333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phbb": {
+        "geo": {
+            "lat": 46.6667,
+            "long": 0.3333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg1c": {
+        "geo": {
+            "lat": 49.776667,
+            "long": 1.985278
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph36": {
+        "geo": {
+            "lat": 47.42315,
+            "long": -0.52477
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0pk": {
+        "geo": {
+            "lat": 43.94667,
+            "long": 4.53632
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg0h": {
+        "geo": {
+            "lat": 49.05,
+            "long": 2.1
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0j": {
+        "geo": {
+            "lat": 44.25494,
+            "long": 4.64736
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkrc": {
+        "geo": {
+            "lat": 44.25494,
+            "long": 4.64736
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg0k": {
+        "geo": {
+            "lat": 49.30168,
+            "long": 2.60467
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phb8": {
+        "geo": {
+            "lat": 46.77941,
+            "long": -0.83619
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2d": {
+        "geo": {
+            "lat": 44.0,
+            "long": 6.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph7v": {
+        "geo": {
+            "lat": 49.26526,
+            "long": 4.02853
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1fc": {
+        "geo": {
+            "lat": 43.93949,
+            "long": 4.56799
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph8w": {
+        "geo": {
+            "lat": 43.25,
+            "long": 2.66667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0n": {
+        "geo": {
+            "lat": 49.44313,
+            "long": 1.09932
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkp8": {
+        "geo": {
+            "lat": 45.62846,
+            "long": -1.0281
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkpm": {
+        "geo": {
+            "lat": 49.45216,
+            "long": 2.60851
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkrv": {
+        "geo": {
+            "lat": 48.59301,
+            "long": 6.33199
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phbd": {
+        "geo": {
+            "lat": 48.74607,
+            "long": 2.35275
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph92": {
+        "geo": {
+            "lat": 44.531346,
+            "long": 0.092726
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0p": {
+        "geo": {
+            "lat": 48.84598,
+            "long": 2.20289
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqn": {
+        "geo": {
+            "lat": 48.843469,
+            "long": 2.219196
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg0q": {
+        "geo": {
+            "lat": 48.93564,
+            "long": 2.35387
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pfgz": {
+        "geo": {
+            "lat": 48.9354,
+            "long": 2.35991
+        },
+        "type": "religious"
+    },
+    "textgrid:3pfh0": {
+        "geo": {
+            "lat": 48.9354,
+            "long": 2.35991
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0pm": {
+        "geo": {
+            "lat": 43.44813,
+            "long": 5.86081
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0pn": {
+        "geo": {
+            "lat": 43.452749,
+            "long": 5.863457
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0pq": {
+        "geo": {
+            "lat": 43.327392,
+            "long": 5.769556
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph3k": {
+        "geo": {
+            "lat": 47.36069,
+            "long": -1.01515
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phb7": {
+        "geo": {
+            "lat": 48.89643,
+            "long": 2.0904
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phbf": {
+        "geo": {
+            "lat": 46.94655,
+            "long": -1.29262
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1dc": {
+        "geo": {
+            "lat": 46.48286,
+            "long": -1.11321
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0ps": {
+        "geo": {
+            "lat": 43.67323,
+            "long": 7.19
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph91": {
+        "geo": {
+            "lat": 44.56527,
+            "long": -0.22431
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0r": {
+        "geo": {
+            "lat": 50.74834,
+            "long": 2.26091
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg2v": {
+        "geo": {
+            "lat": 50.750683,
+            "long": 2.264039
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg2w": {
+        "geo": {
+            "lat": 50.749018,
+            "long": 2.259151
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg2x": {
+        "geo": {
+            "lat": 50.749132,
+            "long": 2.252073
+        },
+        "type": "religious"
+    },
+    "textgrid:3pg2z": {
+        "geo": {
+            "lat": 50.77388,
+            "long": 2.23618
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg2t": {
+        "geo": {
+            "lat": 50.747209,
+            "long": 2.252271
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0pt": {
+        "geo": {
+            "lat": 43.64229,
+            "long": 5.09478
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1f6": {
+        "geo": {
+            "lat": 43.643501,
+            "long": 5.097189
+        },
+        "type": "religious"
+    },
+    "textgrid:3q0pv": {
+        "geo": {
+            "lat": 43.60559,
+            "long": 4.86724
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph93": {
+        "geo": {
+            "lat": 43.265,
+            "long": 2.908056
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkq0": {
+        "geo": {
+            "lat": 48.73558,
+            "long": 7.0572
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2x": {
+        "geo": {
+            "lat": 47.25908,
+            "long": -0.07796
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph33": {
+        "geo": {
+            "lat": 47.25316,
+            "long": -0.063145
+        },
+        "type": "religious"
+    },
+    "textgrid:3pxc1": {
+        "geo": {
+            "lat": 46.13369,
+            "long": 0.10673
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkq3": {
+        "geo": {
+            "lat": 48.74164,
+            "long": 7.36221
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkn2": {
+        "geo": {
+            "lat": 48.742251,
+            "long": 7.363395
+        },
+        "type": "domestic"
+    },
+    "textgrid:3qkpw": {
+        "geo": {
+            "lat": 48.74144,
+            "long": 7.36132
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1dg": {
+        "geo": {
+            "lat": 48.58392,
+            "long": 7.74553
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkn5": {
+        "geo": {
+            "lat": 48.575918,
+            "long": 7.77471
+        },
+        "type": "military"
+    },
+    "textgrid:3q1c1": {
+        "geo": {
+            "lat": 52.28333,
+            "long": 6.1
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0pw": {
+        "geo": {
+            "lat": 43.80583,
+            "long": 4.66028
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxbt": {
+        "geo": {
+            "lat": 49.32516,
+            "long": 2.15836
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph94": {
+        "geo": {
+            "lat": 44.55941,
+            "long": -0.03077
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph98": {
+        "geo": {
+            "lat": 43.60426,
+            "long": 1.44367
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1gb": {
+        "geo": {
+            "lat": 43.597789,
+            "long": 1.448758
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1g9": {
+        "geo": {
+            "lat": 43.595325,
+            "long": 1.448324
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1dq": {
+        "geo": {
+            "lat": 43.593795,
+            "long": 1.444789
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1dp": {
+        "geo": {
+            "lat": 43.593819,
+            "long": 1.444106
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph99": {
+        "geo": {
+            "lat": 43.5999,
+            "long": 1.4504
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph95": {
+        "geo": {
+            "lat": 43.608354,
+            "long": 1.44175
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph96": {
+        "geo": {
+            "lat": 43.5993,
+            "long": 1.4387
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph9b": {
+        "geo": {
+            "lat": 43.604457,
+            "long": 1.444128
+        },
+        "type": "public"
+    },
+    "textgrid:3q1c5": {
+        "geo": {
+            "lat": 50.60715,
+            "long": 3.38932
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2z": {
+        "geo": {
+            "lat": 47.39484,
+            "long": 0.70398
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph30": {
+        "geo": {
+            "lat": 47.397463,
+            "long": 0.685863
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3ph31": {
+        "geo": {
+            "lat": 47.39558,
+            "long": 0.694349
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1gt": {
+        "geo": {
+            "lat": 47.39288,
+            "long": 0.683024
+        },
+        "type": "religious"
+    },
+    "textgrid:3ph9c": {
+        "geo": {
+            "lat": 43.21064,
+            "long": 2.44165
+        },
+        "type": "geographic"
+    },
+    "textgrid:3phbc": {
+        "geo": {
+            "lat": 45.76806,
+            "long": -1.14265
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0w": {
+        "geo": {
+            "lat": 44.932896,
+            "long": 4.891504
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1b6": {
+        "geo": {
+            "lat": 50.35909,
+            "long": 3.52506
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1b9": {
+        "geo": {
+            "lat": 50.356783,
+            "long": 3.514886
+        },
+        "type": "military"
+    },
+    "textgrid:3phbg": {
+        "geo": {
+            "lat": 48.43186,
+            "long": 2.76476
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1gv": {
+        "geo": {
+            "lat": 48.60313,
+            "long": 5.66659
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0x": {
+        "geo": {
+            "lat": 48.80359,
+            "long": 2.13424
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0z": {
+        "geo": {
+            "lat": 45.521956,
+            "long": 4.877927
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0q0": {
+        "geo": {
+            "lat": 43.70392,
+            "long": 7.31088
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph83": {
+        "geo": {
+            "lat": 45.084444,
+            "long": -0.626667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg18": {
+        "geo": {
+            "lat": 49.5014,
+            "long": 2.5826
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg12": {
+        "geo": {
+            "lat": 50.73048,
+            "long": 2.94504
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3x": {
+        "geo": {
+            "lat": 45.04499,
+            "long": -0.60332
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcr": {
+        "geo": {
+            "lat": 53.325556,
+            "long": 7.244722
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg13": {
+        "geo": {
+            "lat": 51.36364,
+            "long": 4.23729
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r32k": {
+        "geo": {
+            "lat": 51.59912,
+            "long": 3.89901
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r32j": {
+        "geo": {
+            "lat": 51.37092,
+            "long": 3.86581
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1fv": {
+        "geo": {
+            "lat": 43.38333,
+            "long": 3.6
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0q1": {
+        "geo": {
+            "lat": 43.84203,
+            "long": 4.62085
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph1w": {
+        "geo": {
+            "lat": 42.709585,
+            "long": 0.945307
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcp": {
+        "geo": {
+            "lat": 51.87197,
+            "long": 6.39089
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxd7": {
+        "geo": {
+            "lat": 52.72237,
+            "long": 9.59377
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph1z": {
+        "geo": {
+            "lat": 44.835011,
+            "long": 4.209223
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcn": {
+        "geo": {
+            "lat": 51.71278,
+            "long": 4.8345
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph39": {
+        "geo": {
+            "lat": 47.49355,
+            "long": -0.54284
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg17": {
+        "geo": {
+            "lat": 48.98769,
+            "long": 2.07161
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxc4": {
+        "geo": {
+            "lat": 51.85282,
+            "long": 3.99332
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q0q2": {
+        "geo": {
+            "lat": 43.33333,
+            "long": 4.83333
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1h6": {
+        "geo": {
+            "lat": 51.9541,
+            "long": 11.91432
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1dj": {
+        "geo": {
+            "lat": 45.72826,
+            "long": 4.81742
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg14": {
+        "geo": {
+            "lat": 49.44469,
+            "long": 0.38177
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg16": {
+        "geo": {
+            "lat": 50.182712,
+            "long": 1.644485
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg15": {
+        "geo": {
+            "lat": 51.97198,
+            "long": 5.91545
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qks0": {
+        "geo": {
+            "lat": 44.88211,
+            "long": 0.89069
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxcz": {
+        "geo": {
+            "lat": 50.61667,
+            "long": 5.61667
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkqw": {
+        "geo": {
+            "lat": 51.500489,
+            "long": 4.298389
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pxc6": {
+        "geo": {
+            "lat": 52.82762,
+            "long": 5.24814
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3k": {
+        "geo": {
+            "lat": 45.47265,
+            "long": -0.15218
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3m": {
+        "geo": {
+            "lat": 48.57052,
+            "long": 6.6708
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3r": {
+        "geo": {
+            "lat": 49.04636,
+            "long": 3.40304
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3t": {
+        "geo": {
+            "lat": 48.864858,
+            "long": 2.31431
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3pg3v": {
+        "geo": {
+            "lat": 54.35205,
+            "long": 18.64637
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg3z": {
+        "geo": {
+            "lat": 49.07392,
+            "long": 3.63819
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph1t": {
+        "geo": {
+            "lat": 48.43507,
+            "long": 2.16233
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph22": {
+        "geo": {
+            "lat": 52.11325,
+            "long": 9.97679
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph23": {
+        "geo": {
+            "lat": 48.81641,
+            "long": 2.41162
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2f": {
+        "geo": {
+            "lat": 48.025751,
+            "long": 16.782769
+        },
+        "type": "domestic"
+    },
+    "textgrid:3ph2m": {
+        "geo": {
+            "lat": 43.29181,
+            "long": -1.98851
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2g": {
+        "geo": {
+            "lat": 45.23393,
+            "long": -0.50627
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2n": {
+        "geo": {
+            "lat": 44.979607,
+            "long": 1.055049
+        },
+        "type": "domestic"
+    },
+    "textgrid:3ph2p": {
+        "geo": {
+            "lat": 47.12861,
+            "long": 0.99528
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph2s": {
+        "geo": {
+            "lat": 48.857514,
+            "long": 2.336044
+        },
+        "type": "domestic"
+    },
+    "textgrid:3ph7w": {
+        "geo": {
+            "lat": 44.64783,
+            "long": 10.92539
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph7x": {
+        "geo": {
+            "lat": 55.75222,
+            "long": 37.61556
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph7z": {
+        "geo": {
+            "lat": 48.65305,
+            "long": 5.18407
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph80": {
+        "geo": {
+            "lat": 48.63773,
+            "long": 4.94892
+        },
+        "type": "geographic"
+    },
+    "textgrid:3ph81": {
+        "geo": {
+            "lat": 48.68075,
+            "long": 5.89115
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px8x": {
+        "geo": {
+            "lat": 48.62857,
+            "long": 6.29668
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1ht": {
+        "geo": {
+            "lat": 52.162857,
+            "long": 4.487565
+        },
+        "type": "other"
+    },
+    "textgrid:3q1hr": {
+        "geo": {
+            "lat": 52.073909,
+            "long": 4.304838
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3q1hq": {
+        "geo": {
+            "lat": 52.079639,
+            "long": 4.313375
+        },
+        "type": "public"
+    },
+    "textgrid:3q1hp": {
+        "geo": {
+            "lat": 52.080436,
+            "long": 4.314417
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1hn": {
+        "geo": {
+            "lat": 52.077356,
+            "long": 4.306624
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1hm": {
+        "geo": {
+            "lat": 52.09293,
+            "long": 4.34402
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1hh": {
+        "geo": {
+            "lat": 52.098658,
+            "long": 4.330969
+        },
+        "type": "garden"
+    },
+    "textgrid:3q1hj": {
+        "geo": {
+            "lat": 52.00629,
+            "long": 4.224549
+        },
+        "type": "domestic"
+    },
+    "textgrid:3px91": {
+        "geo": {
+            "lat": 52.10461,
+            "long": 4.27557
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px92": {
+        "geo": {
+            "lat": 52.09,
+            "long": 4.28472
+        },
+        "type": "garden"
+    },
+    "textgrid:3q1hk": {
+        "geo": {
+            "lat": 52.09,
+            "long": 4.28472
+        },
+        "type": "garden"
+    },
+    "textgrid:3px94": {
+        "geo": {
+            "lat": 51.58656,
+            "long": 4.77596
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1h4": {
+        "geo": {
+            "lat": 51.591428,
+            "long": 4.771578
+        },
+        "type": "military"
+    },
+    "textgrid:3q1h3": {
+        "geo": {
+            "lat": 51.591468,
+            "long": 4.775424
+        },
+        "type": "domestic"
+    },
+    "textgrid:3q1h2": {
+        "geo": {
+            "lat": 51.589193,
+            "long": 4.775316
+        },
+        "type": "religious"
+    },
+    "textgrid:3r322": {
+        "geo": {
+            "lat": 51.588321,
+            "long": 4.776405
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3px95": {
+        "geo": {
+            "lat": 49.37897,
+            "long": 2.41258
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px96": {
+        "geo": {
+            "lat": 49.25672,
+            "long": 2.48477
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px97": {
+        "geo": {
+            "lat": 49.11319,
+            "long": 2.4223
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px98": {
+        "geo": {
+            "lat": 49.63357,
+            "long": 2.29509
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px99": {
+        "geo": {
+            "lat": 49.50503,
+            "long": 2.43285
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px9m": {
+        "geo": {
+            "lat": 31.5,
+            "long": 34.75
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px9n": {
+        "geo": {
+            "lat": 40.73024,
+            "long": 0.86985
+        },
+        "type": "geographic"
+    },
+    "textgrid:3px9t": {
+        "geo": {
+            "lat": 48.8473,
+            "long": 2.4048
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3px9z": {
+        "geo": {
+            "lat": 51.484747,
+            "long": 4.512446
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1b4": {
+        "geo": {
+            "lat": 50.736678,
+            "long": 4.237221
+        },
+        "type": "religious"
+    },
+    "textgrid:3q1b5": {
+        "geo": {
+            "lat": 50.60979,
+            "long": 4.14658
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1b8": {
+        "geo": {
+            "lat": 50.4071,
+            "long": 3.6866
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bb": {
+        "geo": {
+            "lat": 50.257949,
+            "long": 3.416639
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bh": {
+        "geo": {
+            "lat": 49.20724,
+            "long": 2.58661
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bk": {
+        "geo": {
+            "lat": 49.31115,
+            "long": 2.7321
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bm": {
+        "geo": {
+            "lat": 49.58333,
+            "long": 3.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bn": {
+        "geo": {
+            "lat": 49.74721,
+            "long": 3.07301
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bp": {
+        "geo": {
+            "lat": 49.84889,
+            "long": 3.28757
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1bq": {
+        "geo": {
+            "lat": 50.002578,
+            "long": 3.244939
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1c6": {
+        "geo": {
+            "lat": 43.21406,
+            "long": 5.33846
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1c9": {
+        "geo": {
+            "lat": 46.95261,
+            "long": 16.27358
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1cc": {
+        "geo": {
+            "lat": 45.13118,
+            "long": 8.449192
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1cf": {
+        "geo": {
+            "lat": 49.611673,
+            "long": 6.130277
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkr6": {
+        "geo": {
+            "lat": 35.88182,
+            "long": 14.44908
+        },
+        "type": "geographic"
+    },
+    "textgrid:3q1cg": {
+        "geo": {
+            "lat": 36.744211,
+            "long": 3.077863
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkmn": {
+        "geo": {
+            "lat": 43.38871,
+            "long": -1.66267
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkmp": {
+        "geo": {
+            "lat": 31.19518,
+            "long": 29.90976
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkmq": {
+        "geo": {
+            "lat": 48.44685,
+            "long": 1.48925
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkmr": {
+        "geo": {
+            "lat": 48.90702,
+            "long": 6.05635
+        },
+        "type": "geographic"
+    },
+    "textgrid:3qkms": {
+        "geo": {
+            "lat": 48.906,
+            "long": 6.0578
+        },
+        "type": "public"
+    },
+    "textgrid:3qkmt": {
+        "geo": {
+            "lat": 48.858661,
+            "long": 2.328767
+        },
+        "type": "military"
+    },
+    "textgrid:3r2zh": {
+        "geo": {
+            "lat": 48.206567,
+            "long": 16.365422
+        },
+        "type": "public"
+    },
+    "textgrid:3r2zj": {
+        "geo": {
+            "lat": 49.4842,
+            "long": 8.46291
+        },
+        "type": "military"
+    },
+    "textgrid:3r2zk": {
+        "geo": {
+            "lat": 49.79451,
+            "long": 10.34509
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r2zm": {
+        "geo": {
+            "lat": 47.902257,
+            "long": 1.908898
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r2zn": {
+        "geo": {
+            "lat": 47.2,
+            "long": 1.5
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r2zp": {
+        "geo": {
+            "lat": 36.73225,
+            "long": 3.08746
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r2zt": {
+        "geo": {
+            "lat": 48.547325,
+            "long": 7.840394
+        },
+        "type": "military"
+    },
+    "textgrid:3r2zv": {
+        "geo": {
+            "lat": 48.851701,
+            "long": 2.356439
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r2zw": {
+        "geo": {
+            "lat": 48.850481,
+            "long": 2.358057
+        },
+        "type": "domestic"
+    },
+    "textgrid:3r2zx": {
+        "geo": {
+            "lat": 47.9951,
+            "long": 0.424391
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r2zz": {
+        "geo": {
+            "lat": 49.048125,
+            "long": 9.150156
+        },
+        "type": "geographic"
+    },
+    "textgrid:3r302": {
+        "geo": {
+            "lat": 48.848056,
+            "long": 2.339167
+        },
+        "type": "garden"
+    },
+    "textgrid:3r309": {
+        "geo": {
+            "lat": 48.80293,
+            "long": 2.13094
+        },
+        "type": "domestic"
+    },
+    "textgrid:3r30b": {
+        "geo": {
+            "lat": 48.80293,
+            "long": 2.13094
+        },
+        "type": "domestic"
+    },
+    "textgrid:3r30f": {
+        "geo": {
+            "lat": 47.4705,
+            "long": -0.546681
+        },
+        "type": "garden"
+    },
+    "textgrid:3r30j": {
+        "geo": {
+            "lat": 48.805165,
+            "long": 2.123796
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3r30k": {
+        "geo": {
+            "lat": 46.564722,
+            "long": 3.3325
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0s": {
+        "geo": {
+            "lat": 43.12442,
+            "long": 5.92836
+        },
+        "type": "geographic"
+    },
+    "textgrid:3pg0t": {
+        "geo": {
+            "lat": 43.11919,
+            "long": 5.93309
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rc1w": {
+        "geo": {
+            "lat": 43.118,
+            "long": 5.9287
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rc26": {
+        "geo": {
+            "lat": 50.92202,
+            "long": 6.365197
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc28": {
+        "geo": {
+            "lat": 44.468652,
+            "long": -0.218687
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc29": {
+        "geo": {
+            "lat": 48.804999,
+            "long": 2.335108
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc2b": {
+        "geo": {
+            "lat": 43.580033,
+            "long": 7.12299
+        },
+        "type": "public"
+    },
+    "textgrid:3rc2c": {
+        "geo": {
+            "lat": 43.58344,
+            "long": 7.116696
+        },
+        "type": "religious"
+    },
+    "textgrid:3rc2d": {
+        "geo": {
+            "lat": 47.4474,
+            "long": -0.5587
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc2f": {
+        "geo": {
+            "lat": 47.473952,
+            "long": -0.560511
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc2h": {
+        "geo": {
+            "lat": 46.1667,
+            "long": -1.0
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc2j": {
+        "geo": {
+            "lat": 40.215728,
+            "long": 26.46845
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc2k": {
+        "geo": {
+            "lat": 43.671389,
+            "long": 4.636944
+        },
+        "type": "religious"
+    },
+    "textgrid:3rc2m": {
+        "geo": {
+            "lat": 43.122875,
+            "long": 5.929613
+        },
+        "type": "public"
+    },
+    "textgrid:3rc2n": {
+        "geo": {
+            "lat": 44.413682,
+            "long": 8.921796
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rc2r": {
+        "geo": {
+            "lat": 52.156111,
+            "long": 4.484167
+        },
+        "type": "garden"
+    },
+    "textgrid:3rc30": {
+        "geo": {
+            "lat": 48.855484,
+            "long": 2.344966
+        },
+        "type": "religious"
+    },
+    "textgrid:3rc31": {
+        "geo": {
+            "lat": 48.854,
+            "long": 2.33173
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rc34": {
+        "geo": {
+            "lat": 52.37278,
+            "long": 4.90028
+        },
+        "type": "public"
+    },
+    "textgrid:3rc35": {
+        "geo": {
+            "lat": 50.8462,
+            "long": 4.35262
+        },
+        "type": "domestic"
+    },
+    "textgrid:3rc36": {
+        "geo": {
+            "lat": 50.8462,
+            "long": 4.35255
+        },
+        "type": "domestic"
+    },
+    "textgrid:3rc39": {
+        "geo": {
+            "lat": 50.4544,
+            "long": 3.5888
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rc3d": {
+        "geo": {
+            "lat": 48.81452,
+            "long": 2.104666
+        },
+        "type": "interior"
+    },
+    "textgrid:3rc3f": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3rc3g": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3rc3h": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "domestic"
+    },
+    "textgrid:3rc3j": {
+        "geo": {
+            "lat": 44.3851,
+            "long": 0.0952
+        },
+        "type": "geographic"
+    },
+    "textgrid:3rhk7": {
+        "geo": {
+            "lat": 48.807863,
+            "long": 2.115915
+        },
+        "type": "garden"
+    },
+    "textgrid:3rhk6": {
+        "geo": {
+            "lat": 48.804634,
+            "long": 2.113865
+        },
+        "type": "garden"
+    },
+    "textgrid:3rhkb": {
+        "geo": {
+            "lat": 52.370946,
+            "long": 9.728687
+        },
+        "type": "public"
+    },
+    "textgrid:3r31v": {
+        "geo": {
+            "lat": 48.86102,
+            "long": 2.33587
+        },
+        "type": "interior"
+    },
+    "textgrid:3rhkc": {
+        "geo": {
+            "lat": 52.012082,
+            "long": 4.360042
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rhkd": {
+        "geo": {
+            "lat": 52.368558,
+            "long": 9.727757
+        },
+        "type": "infrastructure"
+    },
+    "textgrid:3rhkg": {
+        "geo": {
+            "lat": 48.84844,
+            "long": 2.33726
+        },
+        "type": "interior"
+    }
+}
